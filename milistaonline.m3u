@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,ARG : Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1,ARG : Telpin TV Canal 2
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/76322
+#EXTINF:-1,|RU| FOX FHD
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/77529
+#EXTINF:-1,|RU| A HBO
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/77554
+#EXTINF:-1,|LA| Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,|EN| 24/7 Sci-Fi Movies
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1,|EN| Fashion Channel
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,|EN| Action Movies
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
