@@ -18,4 +18,26 @@ http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8
 #EXTINF:-1,HBO HD
 http://pdsrv.io:25461/jacira/jacira/6108
 #EXTINF:-1,HBO HD [Alternativo]
+http://pdsrv.io:25461/jacira/jacira/11033#EXTINF:-1,HBO HD
+http://pdsrv.io:25461/jacira/jacira/6108
+#EXTINF:-1,HBO HD [Alternativo]
 http://pdsrv.io:25461/jacira/jacira/11033
+#EXTINF:-1,HBO Main
+http://hhhshop.co:83/uk2Qs4du/Joemanie47!/142672
+#EXTINF:-1,HBO Signature
+http://hhhshop.co:83/uk2Qs4du/Joemanie47!/142674
+EXTINF:-1,TNT HD
+http://hhhshop.co:83/uk2Qs4du/Joemanie47!/263043
+#EXTINF:-1,Max UP LEG HD₂
+http://sv1.nowiptv.net:8880/felipe/felipe/35518
+#EXTINF:-1,Space LEG HD₂
+http://sv1.nowiptv.net:8880/felipe/felipe/35519
+#EXTINF:-1,Telecine Action LEG HD₂
+http://sv1.nowiptv.net:8880/felipe/felipe/35510
+#EXTINF:-1,Max UP LEG HD₂
+http://sv1.nowiptv.net:8880/felipe/felipe/35518
+#EXTINF:-1,Space LEG HD₂
+http://sv1.nowiptv.net:8880/felipe/felipe/35519
+#EXTINF:-1,Telecine Action LEG HD₂
+http://sv1.nowiptv.net:8880/felipe/felipe/35510
+
