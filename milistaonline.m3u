@@ -1,33 +1,16 @@
 #EXTM3U
 #EXTINF:-1,ARG : Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1,ARG : Telpin TV Canal 2
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/76322
-#EXTINF:-1,|RU| FOX FHD
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/77529
-#EXTINF:-1,|RU| A HBO
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/77554
 #EXTINF:-1,|LA| Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",FM Hot Movies (Opt-1)
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
 #EXTINF:-1,|EN| 24/7 Sci-Fi Movies
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1,|EN| Fashion Channel
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,|EN| Action Movies
-http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,HBO HD
-http://pdsrv.io:25461/jacira/jacira/6108
-#EXTINF:-1,HBO HD [Alternativo]
-http://pdsrv.io:25461/jacira/jacira/11033#EXTINF:-1,HBO HD
-http://pdsrv.io:25461/jacira/jacira/6108
-#EXTINF:-1,HBO HD [Alternativo]
-http://pdsrv.io:25461/jacira/jacira/11033
-#EXTINF:-1,HBO Main
-http://hhhshop.co:83/uk2Qs4du/Joemanie47!/142672
-#EXTINF:-1,HBO Signature
-http://hhhshop.co:83/uk2Qs4du/Joemanie47!/142674
-EXTINF:-1,TNT HD
-http://hhhshop.co:83/uk2Qs4du/Joemanie47!/263043
 #EXTINF:-1,Max UP LEG HD₂
 http://sv1.nowiptv.net:8880/felipe/felipe/35518
 #EXTINF:-1,Space LEG HD₂
@@ -44,4 +27,15 @@ http://sv1.nowiptv.net:8880/felipe/felipe/35510
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Movies",AYSAR Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mtv estados unidos
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,Videos:Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1,Videos:Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1,Videos:Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,Videos:Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
