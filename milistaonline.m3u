@@ -118,5 +118,10 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",ESPN (New!)
+http://181.198.153.175:5004/play/a075/index.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",ESPN 2 (New!)
+http://181.198.153.175:5004/play/a076/index.m3u8
+
 
 
