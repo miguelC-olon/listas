@@ -19,17 +19,11 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mtv estados unidos
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,ESPN Local (East Server) *********08-02-20*******
+#EXTINF:-1,ESPN Local (East Server) *********15-02-20*******
 #EXTINF:-1,XXX SINSATIONS | HD
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8 
 #EXTINF:-1,HBO
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
- 
-#EXTINF:-1,HBO 2
-http://cableserver1.cableguy.pro:82/live?cId=376&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
- 
-#EXTINF:-1,HBO 3
-http://cableserver1.cableguy.pro:82/live?cId=377&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
  
 #EXTINF:-1,HBO Hits
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
@@ -45,9 +39,6 @@ https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
  
 #EXTINF:-1,Fox Action Movies
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
- 
-#EXTINF:-1,FOX Action Movies
-http://cableserver1.cableguy.pro:82/live?cId=1665&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
  
 #EXTINF:-1,FOX Family Movies
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
@@ -99,9 +90,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1,Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
  
-#EXTINF:-1,Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
- 
 #EXTINF:-1,Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
  
@@ -110,11 +98,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2
  
 #EXTINF:-1,Hollywood Movies 12
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
- 
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
@@ -124,7 +107,8 @@ http://181.198.153.175:5004/play/a075/index.m3u8
 http://181.198.153.175:5004/play/a076/index.m3u8
 #EXTINF:-1 ,Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="ARGENTINA", 13 Max HD
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
