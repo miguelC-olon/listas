@@ -19,76 +19,115 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mtv estados unidos
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,ESPN Local (East Server) *********08-02-20*******
+#EXTINF:-1,ESPN Local (East Server) *********15-02-20*******
 #EXTINF:-1,XXX SINSATIONS | HD
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8 
 #EXTINF:-1,HBO
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,HBO 2
-http://cableserver1.cableguy.pro:82/live?cId=376&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1,HBO 3
-http://cableserver1.cableguy.pro:82/live?cId=377&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+ 
 #EXTINF:-1,HBO Hits
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+ 
 #EXTINF:-1,HBO Signature
 https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+ 
 #EXTINF:-1,Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+ 
 #EXTINF:-1,FOX
 https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+ 
 #EXTINF:-1,Fox Action Movies
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1,FOX Action Movies
-http://cableserver1.cableguy.pro:82/live?cId=1665&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+ 
 #EXTINF:-1,FOX Family Movies
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+ 
 #EXTINF:-1,Fox Movies
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+ 
 #EXTINF:-1,FOX Life
 https://www.livedoomovie.com/02_FOX_Life_HD_720p/chunklist.m3u8
+ 
 #EXTINF:-1,CINEMA WORLD SD
 http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
+ 
 #EXTINF:-1,CINEMA WORLD
 http://210.210.155.35:80/session/1be19ff4-7252-11e9-8405-a92a8c3111c3/uq2663/h/h04/02.m3u8
+ 
 #EXTINF:-1,CINEMA WORLD
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:-1,Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+ 
 #EXTINF:-1,HITS
 http://45.126.83.51/uq2663/h/h37/01.m3u8
+ 
 #EXTINF:-1,HITS HD
 http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+ 
 #EXTINF:-1,Thrill SD
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+ 
 #EXTINF:-1,Thrill
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+ 
 #EXTINF:-1,ZEE Aflam
 http://livecdnh3.tvanywhere.ae:80/hls/zeeaflam/index.m3u8
+ 
 #EXTINF:-1,ZEE World
 http://161.0.157.7/PLTV/88888888/224/3221226542/index.m3u8
+ 
 #EXTINF:-1,Warner TV
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+ 
 #EXTINF:-1,FX
 https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+ 
 #EXTINF:-1,STAR MOVIES
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+ 
 #EXTINF:-1,Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1,Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+ 
 #EXTINF:-1,Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+ 
 #EXTINF:-1,Hollywood Movies 10
 http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+ 
 #EXTINF:-1,Hollywood Movies 12
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+ 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",ESPN (New!)
 http://181.198.153.175:5004/play/a075/index.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",ESPN 2 (New!)
 http://181.198.153.175:5004/play/a076/index.m3u8
+#EXTINF:-1 ,Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="ARGENTINA", 13 Max HD
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 tvg-id="BBCWorldS17" tvg-name="CA: Tele Latino" tvg-logo="http://www.maxxiptv.net/live/picons/tln.png" group-title="Canada",CA: Tele Latino
+http://maxx-iptv10.ddns.net:8080/maxx001/2201452295/40607
+#EXTINF:-1 tvg-id="Vip011:Penthouse.BK" tvg-name="VIP: Penthouse(5) .BK" tvg-logo="http://www.maxxiptv.net/live/picons/18plus.png" group-title="Adult",VIP: Penthouse(5) .BK
+http://mu02.v2iptv.com:8880/LZLM1920/0q50KfQXdf/2975
+#EXTINF:-1 tvg-id="Vip104:Private.BK" tvg-name="VIP: Private(5) .BK" tvg-logo="http://www.maxxiptv.net/live/picons/18plus.png" group-title="Adult",VIP: Private(5) .BK
+http://mu02.v2iptv.com:8880/LZLM1920/0q50KfQXdf/33088
+#EXTINF:-1 tvg-id="Ir:GemTeen.BK" tvg-name="IR: Gem Teen(D) .BK" group-title="Arabic",IR: Gem Teen(D) .BK
+http://www.sansat.net:25461/maxx014/u2AxTbhUJtqVkhl/53976
+#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA: AMC" tvg-logo="http://www.maxxiptv.net/live/picons/AMC.ca.png" group-title="Premium Movies (EN)",CA: AMC
+http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/40776
+#EXTINF:-1 tvg-id="HBO.ca" tvg-name="CA: HBO 1" tvg-logo="http://www.maxxiptv.net/live/picons/hbo_canada_1_logo-300.jpg" group-title="Premium Movies (EN)",CA: HBO 1
+http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/40697
+#EXTINF:-1 tvg-id="HBO.ca.BK" tvg-name="CA: HBO 1(5) .BK" tvg-logo="http://www.maxxiptv.net/live/picons/hbo_canada_1_logo-300.jpg" group-title="Premium Movies (EN)",CA: HBO 1(5) .BK
+http://mu02.v2iptv.com:8880/LZLM1920/0q50KfQXdf/30173
+#EXTINF:-1 tvg-id="MovieTime.ca.BK" tvg-name="CA: Movie Time(5) .BK" tvg-logo="http://www.maxxiptv.net/live/picons/movietime.png" group-title="Premium Movies (EN)",CA: Movie Time(5) .BK
+http://mu02.v2iptv.com:8880/LZLM1920/0q50KfQXdf/30160
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="UK: Cinemax FHD" tvg-logo="http://www.maxxiptv.net/live/picons/cinemax.jpg" group-title="Premium Movies (EN)",UK: Cinemax FHD
+http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/1373
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="US: Cinemax MoreMax" tvg-logo="http://www.maxxiptv.net/live/picons/MoreMax.us.png" group-title="Premium Movies (EN)",US: Cinemax MoreMax
+http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/23342
