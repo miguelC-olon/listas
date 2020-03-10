@@ -19,7 +19,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mtv estados unidos
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,**************07-03-20**************
+#EXTINF:-1,**************09-03-20**************
 #EXTINF:-1,XXX SINSATIONS | HD
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8 
  
@@ -88,114 +88,63 @@ http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/1373
 http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/23342
 #EXTINF:0 type="stream" channelId="-1", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 group-title="Filmes e Séries",FOX SPORT 2
-http://proxyts.ec.cx:8082/hls1/foxsports2.m3u8?wmsAuthSign=
-#EXTINF:-1 group-title="Filmes e Séries",HBO
-http://proxyts.ec.cx:8082/hls1/hbo.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="" group-title="Filme", HBO2
-http://proxyts.ec.cx:8082/hls1/hbo2.m3u8?wmsAuthSign
-#EXTINF:-1 group-title="Filmes e Séries",HBO FAMILY
-http://proxyts.ec.cx:8082/hls1/hbofamily.m3u8?wmsAuthSign=
-#EXTINF:-1 group-title="Filmes e Séries",HBO PLUS
-http://proxyts.ec.cx:8082/hls1/hboplus.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="" group-title="Filme", HBO signature
-http://proxyts.ec.cx:8082/hls1/hbosignature.m3u8?wmsAuthSign=
-#EXTINF:-1,BEIN SPORTS N (OP2).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/442.m3u8
-#EXTINF:-1,ESPN MX.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/91.m3u8
-#EXTINF:-1,ESPN 2 MX.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/92.m3u8
-#EXTINF:-1,ESPN 3 MX.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/93.m3u8
-#EXTINF:-1,ESPN (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/119.m3u8
-#EXTINF:-1,ESPN (AR).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/2858.m3u8
-#EXTINF:-1,ESPN 2 (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/152.m3u8
-#EXTINF:-1,ESPN 2 (AR).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/4049.m3u8
-#EXTINF:-1,ESPN 2 US.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/236.m3u8
-#EXTINF:-1,ESPN 3 (AR).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/2860.m3u8
-#EXTINF:-1,TSN Sports 5.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/4035.m3u8
-#EXTINF:-1,TNT SPORTS (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/3395.m3u8
-#EXTINF:-1,TUDN MX.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/14642.m3u8
-#EXTINF:-1,TUDN MX (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/5412.m3u8
-#EXTINF:-1,TYC SPORTS (ARG).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/1790.m3u8
-EXTINF:-1,13 MAX  (REPETIDORA DE TELEFE ).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/13114.m3u8
-#EXTINF:-1,A24.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/1026.m3u8
-#EXTINF:-1,AMERICA TV.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/1019.m3u8
-EXTINF:-1,TELEFE (720p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/14857.m3u8
-#EXTINF:-1,TV PUBLICA.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/1022.m3u8
-#EXTINF:-1,AXN  HD.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/466.m3u8
-#EXTINF:-1,AXN WHITE.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/465.m3u8
-#EXTINF:-1,MOVISTAR DCINE.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/462.m3u8
-#EXTINF:-1,MOVISTAR ESTRENOS.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/461.m3u8
-#EXTINF:-1,MOVISTAR SERIES.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/459.m3u8
-#EXTINF:-1,MOVISTAR SERIES XTRA.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/458.m3u8
-#EXTINF:-1,CNN EN ESPANOL.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/197.m3u8
-#EXTINF:-1,CINE LATINO.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/10249.m3u8
-#EXTINF:-1,CINECANAL.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/75.m3u8
-#EXTINF:-1,CINECANAL (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/113.m3u8
-#EXTINF:-1,CINEMAX.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/82.m3u8
-#EXTINF:-1,FOX PREMIUM ACTION.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/70.m3u8
-#EXTINF:-1,FOX PREMIUM ACTION (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/116.m3u8
-#EXTINF:-1,FOX PREMIUM CINEMA.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/72.m3u8
-#EXTINF:-1,FOX PREMIUM CLASSIC.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/73.m3u8
-#EXTINF:-1,HBO  (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/5415.m3u8
-#EXTINF:-1,HBO 2.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/378.m3u8
-#EXTINF:-1,HBO 2 (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/4557.m3u8
-#EXTINF:-1,HBO XTREME (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/371.m3u8
-#EXTINF:-1,HBO FAMILY (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/182.m3u8
-#EXTINF:-1,HBO Latino.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/181.m3u8
-EXTINF:-1,SPACE HD.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/86.m3u8
-#EXTINF:-1,TNT HD (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/129.m3u8
-#EXTINF:-1,SYFY  (1080p).m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/872.m3u8
-#EXTINF:-1,PLAYBOY.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/1597.m3u8
-#EXTINF:-1,RUSSIAN.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/15303.m3u8
-#EXTINF:-1,SEXTREME.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/255.m3u8
-#EXTINF:-1,TEEN.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/15311.m3u8
-#EXTINF:-1,VISIT-X.m3u8
-http://158.69.228.135:8000/live/luisdasilva/g8vKudBwgz/15310.m3u8
+#EXTINF: -1, latino | TyC Sports
+http://compitv.info:8080/mauricio/mauricio123/29413
+#EXTINF: -1, latino | Ultra Cine
+http://compitv.info:8080/mauricio/mauricio123/29414
+#EXTINF: -1, latino | AXN
+http://compitv.info:8080/mauricio/mauricio123/29302
+#EXTINF: -1, latino | AXN White
+http://compitv.info:8080/mauricio/mauricio123/29303
+#EXTINF: -1, latino | estar en deportes
+http://compitv.info:8080/mauricio/mauricio123/29311
+#EXTINF: -1, latino | beIN Sports La Liga
+http://compitv.info:8080/mauricio/mauricio123/29312
+#EXTINF: -1, latino | CineCanal
+http://compitv.info:8080/mauricio/mauricio123/29318
+#EXTINF: -1, latino | CineLatino
+http://compitv.info:8080/mauricio/mauricio123/29319
+#EXTINF: -1, latino | Cinemax
+http://compitv.info:8080/mauricio/mauricio123/29320
+#EXTINF: -1, latino | CNN en español
+http://compitv.info:8080/mauricio/mauricio123/29321
+#EXTINF: -1, latino | Central de la comedia
+http://compitv.info:8080/mauricio/mauricio123/29322
+#EXTINF: -1, latino | De pelicula
+http://compitv.info:8080/mauricio/mauricio123/29323
+#EXTINF: -1, latino | Canal de descubrimiento
+http://compitv.info:8080/mauricio/mauricio123/29324
+#EXTINF: -1, latino | ESPN
+http://compitv.info:8080/mauricio/mauricio123/29343
+#EXTINF: -1, latino | ESPN 2
+http://compitv.info:8080/mauricio/mauricio123/29344
+#EXTINF: -1, latino | ESPN 3
+http://compitv.info:8080/mauricio/mauricio123/29345
+#EXTINF: -1, latino | ESPN Deportes
+http://compitv.info:8080/mauricio/mauricio123/29346
+#EXTINF: -1, latino | ESPN Plus
+http://compitv.info:8080/mauricio/mauricio123/29347
+http://compitv.info:8080/mauricio/mauricio123/29352
+#EXTINF: -1, latino | Cine FOX PREMIUM
+http://compitv.info:8080/mauricio/mauricio123/29353
+#EXTINF: -1, latino | FOX PREMIUM Classic
+http://compitv.info:8080/mauricio/mauricio123/29354
+#EXTINF: -1, latino | Familia FOX PREMIUM
+http://compitv.info:8080/mauricio/mauricio123/29355
+#EXTINF: -1, latino | Vida de zorro
+http://compitv.info:8080/mauricio/mauricio123/29356
+#EXTINF: -1, latino | Películas FOX PREMIUM
+http://compitv.info:8080/mauricio/mauricio123/29357
+#EXTINF: -1, latino | Serie FOX PREMIUM
+http://compitv.info:8080/mauricio/mauricio123/29358
+#EXTINF: -1, latino | FOX Sports
+http://compitv.info:8080/mauricio/mauricio123/29359
+#EXTINF: -1, latino | FOX Sports 2
+http://compitv.info:8080/mauricio/mauricio123/29360
+#EXTINF: -1, latino | FOX Sports 3
+http://compitv.info:8080/mauricio/mauricio123/29361
+#EXTINF: -1, latino | FX
+http://compitv.info:8080/mauricio/mauricio123/29362
+#EXTINF: -1, latino | FXM
+http://compitv.info:8080/mauricio/mauricio123/29363
 
