@@ -19,7 +19,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mtv estados unidos
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,**************09-03-20**************
+#EXTINF:-1,**************14-03-20**************
 #EXTINF:-1,XXX SINSATIONS | HD
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8 
  
@@ -88,76 +88,43 @@ http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/1373
 http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/23342
 #EXTINF:0 type="stream" channelId="-1", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF: -1, latino | TyC Sports
-http://compitv.info:8080/mauricio/mauricio123/29413
-#EXTINF: -1, latino | Ultra Cine
-http://compitv.info:8080/mauricio/mauricio123/29414
-#EXTINF: -1, latino | AXN
-http://compitv.info:8080/mauricio/mauricio123/29302
-#EXTINF: -1, latino | AXN White
-http://compitv.info:8080/mauricio/mauricio123/29303
-#EXTINF: -1, latino | estar en deportes
-http://compitv.info:8080/mauricio/mauricio123/29311
-#EXTINF: -1, latino | beIN Sports La Liga
-http://compitv.info:8080/mauricio/mauricio123/29312
-#EXTINF: -1, latino | CineCanal
-http://compitv.info:8080/mauricio/mauricio123/29318
-#EXTINF: -1, latino | CineLatino
-http://compitv.info:8080/mauricio/mauricio123/29319
-#EXTINF: -1, latino | Cinemax
-http://compitv.info:8080/mauricio/mauricio123/29320
-#EXTINF: -1, latino | CNN en español
-http://compitv.info:8080/mauricio/mauricio123/29321
-#EXTINF: -1, latino | Central de la comedia
-http://compitv.info:8080/mauricio/mauricio123/29322
-#EXTINF: -1, latino | De pelicula
-http://compitv.info:8080/mauricio/mauricio123/29323
-#EXTINF: -1, latino | Canal de descubrimiento
-http://compitv.info:8080/mauricio/mauricio123/29324
-#EXTINF: -1, latino | ESPN
-http://compitv.info:8080/mauricio/mauricio123/29343
-#EXTINF: -1, latino | ESPN 2
-http://compitv.info:8080/mauricio/mauricio123/29344
-#EXTINF: -1, latino | ESPN 3
-http://compitv.info:8080/mauricio/mauricio123/29345
-#EXTINF: -1, latino | ESPN Deportes
-http://compitv.info:8080/mauricio/mauricio123/29346
-#EXTINF: -1, latino | ESPN Plus
-http://compitv.info:8080/mauricio/mauricio123/29347
-http://compitv.info:8080/mauricio/mauricio123/29352
-#EXTINF: -1, latino | Cine FOX PREMIUM
-http://compitv.info:8080/mauricio/mauricio123/29353
-#EXTINF: -1, latino | FOX PREMIUM Classic
-http://compitv.info:8080/mauricio/mauricio123/29354
-#EXTINF: -1, latino | Familia FOX PREMIUM
-http://compitv.info:8080/mauricio/mauricio123/29355
-#EXTINF: -1, latino | Vida de zorro
-http://compitv.info:8080/mauricio/mauricio123/29356
-#EXTINF: -1, latino | Películas FOX PREMIUM
-http://compitv.info:8080/mauricio/mauricio123/29357
-#EXTINF: -1, latino | Serie FOX PREMIUM
-http://compitv.info:8080/mauricio/mauricio123/29358
-#EXTINF: -1, latino | FOX Sports
-http://compitv.info:8080/mauricio/mauricio123/29359
-#EXTINF: -1, latino | FOX Sports 2
-http://compitv.info:8080/mauricio/mauricio123/29360
-#EXTINF: -1, latino | FOX Sports 3
-http://compitv.info:8080/mauricio/mauricio123/29361
-#EXTINF: -1, latino | FX
-http://compitv.info:8080/mauricio/mauricio123/29362
-#EXTINF: -1, latino | FXM
-http://compitv.info:8080/mauricio/mauricio123/29363
-#EXTINF:-1,TYC SPORTS
-http://62.210.139.229:25461/G3V71/89741/1906
-#EXTINF:-1,FOX SPORTS
-http://62.210.139.229:25461/G3V71/89741/1907
-#EXTINF:-1,ESPN 2
-http://62.210.139.229:25461/G3V71/89741/1911
-#EXTINF:-1,TNT SPORTS
-http://62.210.139.229:25461/G3V71/89741/1912
-#EXTINF:-1,BEIN SPORTS
-http://62.210.139.229:25461/G3V71/89741/1913
-#EXTINF:-1,USA | HBO Zone
-http://62.210.139.229:25461/G3V71/89741/5428
-#EXTINF:-1,USA | NFL Network
-http://62.210.139.229:25461/G3V71/89741/5467
+#EXTINF:-1,ARGENTINA: TV PUBLICA
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58006
+#EXTINF:-1,ARGENTINA: AMERICA TV
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58007
+#EXTINF:-1,ARGENTINA: TELEFE
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58008
+#EXTINF:-1,ARGENTINA: EL TRECE
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58009
+#EXTINF:-1,ARGENTINA: ELNUEVE
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58010
+#EXTINF:-1,ARGENTINA: ENCUENTRO
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58011
+#EXTINF:-1,ARGENTINA: TELPIN
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58012
+#EXTINF:-1,ARGENTINA: FOX SPORTS PREMIUM
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58035
+#EXTINF:-1,ARGENTINA: TNT SPORT
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58036
+#EXTINF:-1,ARGENTINA: ESPN+
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58043
+#EXTINF:-1,ARGENTINA: TYC
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58044
+#EXTINF:-1,LATIN: FOX ACTION
+http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58454
+#EXTINF:-1,LATIN: FOX CINEMA
+http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58455
+#EXTINF:-1,LATIN: SPACE
+http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58476
+#EXTINF:-1,LATIN: TDN
+http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58503
+#EXTINF:-1,FOX PREMIUM ACTION HD
+http://tv.iptv5latino.cl:8000/live/Juan/12345/1731.ts
+#EXTINF:-1,FOX PREMIUM CINEMA
+http://tv.iptv5latino.cl:8000/live/Juan/12345/1732.ts
+#EXTINF:-1,FOX SPORTS PREMIUM SUR
+http://tv.iptv5latino.cl:8000/live/Juan/12345/615.ts
+#EXTINF:-1,ARGENTINA: FOX SPORTS PREMIUM
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58035
+#EXTINF:-1,ARGENTINA: TNT SPORT
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58036
