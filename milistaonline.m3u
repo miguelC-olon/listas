@@ -98,10 +98,14 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,JasminTV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Brazzers
-http://s1.hdporus.com/content/vod/s2075/480/index.m3u8
-#EXTINF:-1,Difiplayground
-http://s1.hdporus.com/content/vod/s2004/480/index.m3u8
+#EXTINF:0,(18) RedTraffic Hardcore HD
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:0,(18) RedTraffic Interracial HD
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0,(18) RedTraffic Latina HD
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:0,(18) RedTraffic Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="X",Interr
 http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="X",Tee
