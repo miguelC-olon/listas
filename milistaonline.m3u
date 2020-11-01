@@ -18,7 +18,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,JasminTV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,**************04-10-20**************
+#EXTINF:-1,**************31-10-20**************
 
 #EXTINF:-1 ,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -102,5 +102,36 @@ http://seeyoutv.net:2300/12/12/10634
 http://seeyoutv.net:2300/12/12/10367
 #EXTINF:0 tvg-id="ext" group-title="Channels",ENTRETENIMIENTO 2:FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:0,Sporting HD (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34681.m3u8
+#EXTINF:0,TNT Sports SD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34682.m3u8
+#EXTINF:0,TNT Sports HD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34683.m3u8
+#EXTINF:0,TNT Sports FHD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34684.m3u8
+#EXTINF:0,TyC Sports  SD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34685.m3u8
+#EXTINF:0,TyC Sports HD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34686.m3u8
+#EXTINF:0,TyC Sports FHD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34687.m3u8
+#EXTINF:0,TyC Sports Internacional HD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34688.m3u8
+#EXTINF:0,Win Sports SD (CO)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34689.m3u8
+#EXTINF:0,Latin American Sports SD (MX)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34698.m3u8
+#EXTINF:0,b31N Sports 1 HQ (AR)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34718.m3u8
+#EXTINF:0,b31N Sports 2 HQ (AR)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34719.m3u8
+#EXTINF:0,DeporTV SD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34740.m3u8
+#EXTINF:0,DeporTV HD (ARG)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34741.m3u8
+
+
 
 
