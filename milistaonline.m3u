@@ -136,6 +136,11 @@ http://rec2.distv.net:80/angelo/angelo/521
 http://rec2.distv.net:80/angelo/angelo/522
 #EXTINF:-1,TNT SERIES
 http://rec2.distv.net:80/angelo/angelo/523
+#EXTINF:-1 tvg-id="100592" tvg-name="TV Publica Fueguina" tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png", TV Publica Fueguina
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108684" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg", Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
 
 
 
