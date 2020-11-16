@@ -18,7 +18,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,JasminTV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,**************31-10-20**************
+#EXTINF:-1,**************16-11-20**************
 
 #EXTINF:-1 ,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -103,34 +103,39 @@ http://seeyoutv.net:2300/12/12/10367
 #EXTINF:0 tvg-id="ext" group-title="Channels",ENTRETENIMIENTO 2:FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:0,Sporting HD (CL)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34681.m3u8
-#EXTINF:0,TNT Sports SD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34682.m3u8
-#EXTINF:0,TNT Sports HD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34683.m3u8
-#EXTINF:0,TNT Sports FHD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34684.m3u8
-#EXTINF:0,TyC Sports  SD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34685.m3u8
-#EXTINF:0,TyC Sports HD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34686.m3u8
-#EXTINF:0,TyC Sports FHD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34687.m3u8
-#EXTINF:0,TyC Sports Internacional HD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34688.m3u8
-#EXTINF:0,Win Sports SD (CO)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34689.m3u8
-#EXTINF:0,Latin American Sports SD (MX)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34698.m3u8
-#EXTINF:0,b31N Sports 1 HQ (AR)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34718.m3u8
-#EXTINF:0,b31N Sports 2 HQ (AR)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34719.m3u8
-#EXTINF:0,DeporTV SD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34740.m3u8
-#EXTINF:0,DeporTV HD (ARG)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/34741.m3u8
+#EXTINF:-1,SPACE
+http://rec2.distv.net:80/angelo/angelo/508
+#EXTINF:-1,SPORTV 
+http://rec2.distv.net:80/angelo/angelo/509
+#EXTINF:-1,SPORTV 2
+http://rec2.distv.net:80/angelo/angelo/510
+#EXTINF:-1,SPORTV 3
+http://rec2.distv.net:80/angelo/angelo/511
+#EXTINF:-1,STUDIO UNIVERSAL
+http://rec2.distv.net:80/angelo/angelo/512
+#EXTINF:-1,SYFY
+http://rec2.distv.net:80/angelo/angelo/513
+#EXTINF:-1,TBS
+http://rec2.distv.net:80/angelo/angelo/514
+#EXTINF:-1,TC ACTION
+http://rec2.distv.net:80/angelo/angelo/515
+#EXTINF:-1,TC CULT
+http://rec2.distv.net:80/angelo/angelo/516
+#EXTINF:-1,TC FUN
+http://rec2.distv.net:80/angelo/angelo/517
+#EXTINF:-1,TC PIPOCA
+http://rec2.distv.net:80/angelo/angelo/518
+#EXTINF:-1,TC PREMIUM
+http://rec2.distv.net:80/angelo/angelo/519
+#EXTINF:-1,TC TOUCH
+http://rec2.distv.net:80/angelo/angelo/520
+#EXTINF:-1,TLC
+http://rec2.distv.net:80/angelo/angelo/521
+#EXTINF:-1,TNT
+http://rec2.distv.net:80/angelo/angelo/522
+#EXTINF:-1,TNT SERIES
+http://rec2.distv.net:80/angelo/angelo/523
+
 
 
 
