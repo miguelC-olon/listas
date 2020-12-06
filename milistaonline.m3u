@@ -18,7 +18,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,JasminTV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,**************16-11-20**************
+#EXTINF:-1,**************05-12-20**************
 #EXTINF:-1 ,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,|LA| Lancelot Pelis
@@ -30,10 +30,6 @@ http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-id="BBCWorldS17" tvg-name="CA: Tele Latino" tvg-logo="http://www.maxxiptv.net/live/picons/tln.png" group-title="Canada",CA: Tele Latino
 http://maxx-iptv10.ddns.net:8080/maxx001/2201452295/40607
-#EXTINF:-1 tvg-id="Vip011:Penthouse.BK" tvg-name="VIP: Penthouse(5) .BK" tvg-logo="http://www.maxxiptv.net/live/picons/18plus.png" group-title="Adult",VIP: Penthouse(5) .BK
-http://mu02.v2iptv.com:8880/LZLM1920/0q50KfQXdf/2975
-#EXTINF:-1 tvg-id="Vip104:Private.BK" tvg-name="VIP: Private(5) .BK" tvg-logo="http://www.maxxiptv.net/live/picons/18plus.png" group-title="Adult",VIP: Private(5) .BK
-http://mu02.v2iptv.com:8880/LZLM1920/0q50KfQXdf/33088
 
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA: AMC" tvg-logo="http://www.maxxiptv.net/live/picons/AMC.ca.png" group-title="Premium Movies (EN)",CA: AMC
 http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/40776
@@ -43,11 +39,6 @@ http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/40697
 http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/1373
 #EXTINF:-1 tvg-id="MoreMax.us" tvg-name="US: Cinemax MoreMax" tvg-logo="http://www.maxxiptv.net/live/picons/MoreMax.us.png" group-title="Premium Movies (EN)",US: Cinemax MoreMax
 http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/23342
-
-#EXTINF:-1 tvg-id="HBO.ca.BK" tvg-name="CA: HBO 1(5) .BK" tvg-logo="http://www.maxxiptv.net/live/picons/hbo_canada_1_logo-300.jpg" group-title="Premium Movies (EN)",CA: HBO 1(5) .BK
-http://mu02.v2iptv.com:8880/LZLM1920/0q50KfQXdf/30173
-#EXTINF:-1 tvg-id="MovieTime.ca.BK" tvg-name="CA: Movie Time(5) .BK" tvg-logo="http://www.maxxiptv.net/live/picons/movietime.png" group-title="Premium Movies (EN)",CA: Movie Time(5) .BK
-http://mu02.v2iptv.com:8880/LZLM1920/0q50KfQXdf/30160
 
 #EXTINF:-1, tele vida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
@@ -70,32 +61,6 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1, Anal Website
 http://live.redtraffic.xyz/anal.m3u8
 
-#EXTINF:-1,group-title="PINK",  ACTION
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/833
-#EXTINF:-1,group-title="PINK",  BRAVO
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/832
-#EXTINF:-1,group-title="PINK",  CLASSIC
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/831
-#EXTINF:-1,group-title="PINK",  COMEDY
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/830
-#EXTINF:-1,group-title="PINK",  CRIME & MYSTERY
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/829
-#EXTINF:-1,group-title="PINK",  EROTIC 1
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/828
-#EXTINF:-1,group-title="PINK",  EROTIC 2
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/827
-#EXTINF:-1,group-title="PINK",  EROTIC 3
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/826
-#EXTINF:-1,group-title="PINK",  EROTIC 4
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/825
-#EXTINF:-1,group-title="PINK",  EROTIC 5
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/824
-#EXTINF:-1,group-title="PINK",  EROTIC 6
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/823
-#EXTINF:-1,group-title="PINK",  EROTIC 7
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/822
-#EXTINF:-1,group-title="PINK",  EROTIC 8
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/821
 
 #EXTINF:-1,PARAMOUNT CHANNEL
 http://seeyoutv.net:2300/12/12/10634
@@ -136,11 +101,46 @@ http://rec2.distv.net:80/angelo/angelo/521
 http://rec2.distv.net:80/angelo/angelo/522
 #EXTINF:-1,TNT SERIES
 http://rec2.distv.net:80/angelo/angelo/523
+
 #EXTINF:-1 tvg-id="100592" tvg-name="TV Publica Fueguina" tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png", TV Publica Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108684" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,DK: DISNEY CHANNEL
+http://web24.live:8080/san123/san123/39102
+#EXTINF:-1,DK: FOX
+http://web24.live:8080/san123/san123/39119
+#EXTINF:-1,DK: INVESTIGATION DISCOVERY
+http://web24.live:8080/san123/san123/39121
+#EXTINF:-1,UK: HISTORY CHANNEL
+http://web24.live:8080/san123/san123/39279
+#EXTINF:-1,UK: MOVIES 24
+http://web24.live:8080/san123/san123/1363
+#EXTINF:-1,UK: SKY ATLANTIC
+http://web24.live:8080/san123/san123/1372
+#EXTINF:-1,UK: SKY CINEMA ACTION
+http://web24.live:8080/san123/san123/1369
+#EXTINF:-1,UK: SKY CINEMA COMEDY
+http://web24.live:8080/san123/san123/1367
+#EXTINF:-1,UK: SKY CINEMA DISNEY
+http://web24.live:8080/san123/san123/1365
+#EXTINF:-1,UK: SKY CINEMA DRAMA
+http://web24.live:8080/san123/san123/1362
+#EXTINF:-1,UK: SKY CINEMA FAMILY
+http://web24.live:8080/san123/san123/1360
+#EXTINF:-1,UK: SKY CINEMA GREATS
+http://web24.live:8080/san123/san123/1358
+#EXTINF:-1,UK: SKY CINEMA HITS
+http://web24.live:8080/san123/san123/1356
+#EXTINF:-1,UK: SKY CINEMA PREMIERE
+http://web24.live:8080/san123/san123/1351
+#EXTINF:-1,UK: SKY CINEMA SCI-FI
+http://web24.live:8080/san123/san123/1352
+#EXTINF:-1,UK: SKY CINEMA SELECT
+http://web24.live:8080/san123/san123/1349
+#EXTINF:-1,UK: SKY CINEMA THRILLER
+http://web24.live:8080/san123/san123/1345
 
 
 
