@@ -18,7 +18,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,JasminTV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,**************05-12-20**************
+#EXTINF:-1,**************01-02-21**************
 #EXTINF:-1 ,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,|LA| Lancelot Pelis
@@ -61,84 +61,140 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1, Anal Website
 http://live.redtraffic.xyz/anal.m3u8
 
-
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://seeyoutv.net:2300/12/12/10634
-#EXTINF:-1,SUPER TENNIS HD
-http://seeyoutv.net:2300/12/12/10367
 #EXTINF:0 tvg-id="ext" group-title="Channels",ENTRETENIMIENTO 2:FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1,SPACE
-http://rec2.distv.net:80/angelo/angelo/508
-#EXTINF:-1,SPORTV 
-http://rec2.distv.net:80/angelo/angelo/509
-#EXTINF:-1,SPORTV 2
-http://rec2.distv.net:80/angelo/angelo/510
-#EXTINF:-1,SPORTV 3
-http://rec2.distv.net:80/angelo/angelo/511
-#EXTINF:-1,STUDIO UNIVERSAL
-http://rec2.distv.net:80/angelo/angelo/512
-#EXTINF:-1,SYFY
-http://rec2.distv.net:80/angelo/angelo/513
-#EXTINF:-1,TBS
-http://rec2.distv.net:80/angelo/angelo/514
-#EXTINF:-1,TC ACTION
-http://rec2.distv.net:80/angelo/angelo/515
-#EXTINF:-1,TC CULT
-http://rec2.distv.net:80/angelo/angelo/516
-#EXTINF:-1,TC FUN
-http://rec2.distv.net:80/angelo/angelo/517
-#EXTINF:-1,TC PIPOCA
-http://rec2.distv.net:80/angelo/angelo/518
-#EXTINF:-1,TC PREMIUM
-http://rec2.distv.net:80/angelo/angelo/519
-#EXTINF:-1,TC TOUCH
-http://rec2.distv.net:80/angelo/angelo/520
-#EXTINF:-1,TLC
-http://rec2.distv.net:80/angelo/angelo/521
-#EXTINF:-1,TNT
-http://rec2.distv.net:80/angelo/angelo/522
-#EXTINF:-1,TNT SERIES
-http://rec2.distv.net:80/angelo/angelo/523
 
 #EXTINF:-1 tvg-id="100592" tvg-name="TV Publica Fueguina" tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png", TV Publica Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108684" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,DK: DISNEY CHANNEL
-http://web24.live:8080/san123/san123/39102
-#EXTINF:-1,DK: FOX
-http://web24.live:8080/san123/san123/39119
-#EXTINF:-1,DK: INVESTIGATION DISCOVERY
-http://web24.live:8080/san123/san123/39121
-#EXTINF:-1,UK: HISTORY CHANNEL
-http://web24.live:8080/san123/san123/39279
-#EXTINF:-1,UK: MOVIES 24
-http://web24.live:8080/san123/san123/1363
-#EXTINF:-1,UK: SKY ATLANTIC
-http://web24.live:8080/san123/san123/1372
-#EXTINF:-1,UK: SKY CINEMA ACTION
-http://web24.live:8080/san123/san123/1369
-#EXTINF:-1,UK: SKY CINEMA COMEDY
-http://web24.live:8080/san123/san123/1367
-#EXTINF:-1,UK: SKY CINEMA DISNEY
-http://web24.live:8080/san123/san123/1365
-#EXTINF:-1,UK: SKY CINEMA DRAMA
-http://web24.live:8080/san123/san123/1362
-#EXTINF:-1,UK: SKY CINEMA FAMILY
-http://web24.live:8080/san123/san123/1360
-#EXTINF:-1,UK: SKY CINEMA GREATS
-http://web24.live:8080/san123/san123/1358
-#EXTINF:-1,UK: SKY CINEMA HITS
-http://web24.live:8080/san123/san123/1356
-#EXTINF:-1,UK: SKY CINEMA PREMIERE
-http://web24.live:8080/san123/san123/1351
-#EXTINF:-1,UK: SKY CINEMA SCI-FI
-http://web24.live:8080/san123/san123/1352
-#EXTINF:-1,UK: SKY CINEMA SELECT
-http://web24.live:8080/san123/san123/1349
-#EXTINF:-1,UK: SKY CINEMA THRILLER
-http://web24.live:8080/san123/san123/1345
 
+#EXTINF:-1,beIN Sports News HD
+http://maiptv.com:8080/ricardo01/98563lop/89024
+#EXTINF:-1,beIN Sports HD
+http://maiptv.com:8080/ricardo01/98563lop/89025
+#EXTINF:-1,beIN Sports HD1
+http://maiptv.com:8080/ricardo01/98563lop/90583
+#EXTINF:-1,Disney+
+http://maiptv.com:8080/ricardo01/98563lop/89276
+#EXTINF:-1,Disney Junior
+http://maiptv.com:8080/ricardo01/98563lop/89277
+#EXTINF:-1,TVCiNE TOP
+http://maiptv.com:8080/ricardo01/98563lop/90526
+#EXTINF:-1,TVCiNE EDITION
+http://maiptv.com:8080/ricardo01/98563lop/90527
+#EXTINF:-1,TVCiNE EMOTION
+http://maiptv.com:8080/ricardo01/98563lop/90528
+#EXTINF:-1,TVCiNE ACTION
+http://maiptv.com:8080/ricardo01/98563lop/90529
+#EXTINF:-1,TV SERIES
+http://maiptv.com:8080/ricardo01/98563lop/90530
+#EXTINF:-1,HOLLYWOOD
+http://maiptv.com:8080/ricardo01/98563lop/90531
+#EXTINF:-1,FOX MOVIES
+http://maiptv.com:8080/ricardo01/98563lop/90532
+#EXTINF:-1,NOS STUDIOS
+http://maiptv.com:8080/ricardo01/98563lop/90533
+#EXTINF:-1,SYFY
+http://maiptv.com:8080/ricardo01/98563lop/90534
+#EXTINF:-1,AXN
+http://maiptv.com:8080/ricardo01/98563lop/90535
+#EXTINF:-1,AXN MOVIES
+http://maiptv.com:8080/ricardo01/98563lop/90536
+#EXTINF:-1,AXN WHITE
+http://maiptv.com:8080/ricardo01/98563lop/90537
+#EXTINF:-1,AMC
+http://maiptv.com:8080/ricardo01/98563lop/90538
+#EXTINF:-1,FOX
+http://maiptv.com:8080/ricardo01/98563lop/90539
+#EXTINF:-1,FOX LIFE
+http://maiptv.com:8080/ricardo01/98563lop/90540
+#EXTINF:-1,E!
+http://maiptv.com:8080/ricardo01/98563lop/90541
+#EXTINF:-1,FASHION TV
+http://maiptv.com:8080/ricardo01/98563lop/90542
+#EXTINF:-1,DISCOVERY CHANNEL
+http://maiptv.com:8080/ricardo01/98563lop/90543
+#EXTINF:-1,NAT GEO
+http://maiptv.com:8080/ricardo01/98563lop/90544
+#EXTINF:-1,CANAL HISTORIA
+http://maiptv.com:8080/ricardo01/98563lop/90546
+
+#EXTINF:-1,24/7 Harry Potter (e) (1080) 
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/37755
+#EXTINF:-1,24/7 HBO Family(M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/2106
+#EXTINF:-1,24/7 HBO Plus(M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/2107
+#EXTINF:-1,24/7 HBO Signature(M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/2108
+#EXTINF:-1,CINE - Cinecanal (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26753
+#EXTINF:-1,CINE - Cinemax (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1444
+#EXTINF:-1,CINE - Cinemax (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26743
+#EXTINF:-1,CINE - Comedy Central (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26929
+#EXTINF:-1,CINE - Comedy Central (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1446
+#EXTINF:-1,CINE - De Pelicula (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1448
+#EXTINF:-1,CINE - De Pelicula Plus (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1449
+#EXTINF:-1,CINE - De Pelicula Plus (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1450
+#EXTINF:-1,CINE - De Película (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26754
+#EXTINF:-1,CINE - Distrito Comedia (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26923
+#EXTINF:-1,CINE - Distrito Comedia (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1451
+#EXTINF:-1,CINE - Fox Life (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26751
+#EXTINF:-1,CINE - Fox Premium Action (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26916
+#EXTINF:-1,CINE - Fox Premium Action (M)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1460
+#EXTINF:-1,CINE - Fox Premium Action (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26741
+#EXTINF:-1,CINE - Fox Premium Cinema (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1462
+#EXTINF:-1,CINE - Fox Premium Cinema (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26740
+#EXTINF:-1,CINE - Fox Premium Classics (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1463
+#EXTINF:-1,CINE - Fox Premium Classics (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26739
+#EXTINF:-1,CINE - Fox Premium Comedy (M)(1080) [Dual Audio]
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1464
+#EXTINF:-1,CINE - FXM (M)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/26920
+#EXTINF:-1,CINE - Golden (M)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1473
+#EXTINF:-1,CINE - Golden (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1472
+#EXTINF:-1,CINE - Golden Edge (M)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1478
+#EXTINF:-1,CINE - Golden Plus (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1476
+#EXTINF:-1,CINE - Golden Plus (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1477
+#EXTINF:-1,CINE - Golden Premiere (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1474
+#EXTINF:-1,CINE - HBO (e)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1040
+#EXTINF:-1,CINE - HBO (e)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1041
+#EXTINF:-1,CINE - HBO 1 (e)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1043
+#EXTINF:-1,CINE - HBO 1 (e)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1044
+#EXTINF:-1,CINE - HBO 2 (e)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1031
+#EXTINF:-1,CINE - HBO 2 (e)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1032
+#EXTINF:-1,CINE - HBO 2 (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/52876
