@@ -18,7 +18,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,JasminTV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,**************01-02-21**************
+#EXTINF:-1,**************13-02-21**************
 #EXTINF:-1 ,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,|LA| Lancelot Pelis
@@ -71,56 +71,6 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?Playli
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1,beIN Sports News HD
-http://maiptv.com:8080/ricardo01/98563lop/89024
-#EXTINF:-1,beIN Sports HD
-http://maiptv.com:8080/ricardo01/98563lop/89025
-#EXTINF:-1,beIN Sports HD1
-http://maiptv.com:8080/ricardo01/98563lop/90583
-#EXTINF:-1,Disney+
-http://maiptv.com:8080/ricardo01/98563lop/89276
-#EXTINF:-1,Disney Junior
-http://maiptv.com:8080/ricardo01/98563lop/89277
-#EXTINF:-1,TVCiNE TOP
-http://maiptv.com:8080/ricardo01/98563lop/90526
-#EXTINF:-1,TVCiNE EDITION
-http://maiptv.com:8080/ricardo01/98563lop/90527
-#EXTINF:-1,TVCiNE EMOTION
-http://maiptv.com:8080/ricardo01/98563lop/90528
-#EXTINF:-1,TVCiNE ACTION
-http://maiptv.com:8080/ricardo01/98563lop/90529
-#EXTINF:-1,TV SERIES
-http://maiptv.com:8080/ricardo01/98563lop/90530
-#EXTINF:-1,HOLLYWOOD
-http://maiptv.com:8080/ricardo01/98563lop/90531
-#EXTINF:-1,FOX MOVIES
-http://maiptv.com:8080/ricardo01/98563lop/90532
-#EXTINF:-1,NOS STUDIOS
-http://maiptv.com:8080/ricardo01/98563lop/90533
-#EXTINF:-1,SYFY
-http://maiptv.com:8080/ricardo01/98563lop/90534
-#EXTINF:-1,AXN
-http://maiptv.com:8080/ricardo01/98563lop/90535
-#EXTINF:-1,AXN MOVIES
-http://maiptv.com:8080/ricardo01/98563lop/90536
-#EXTINF:-1,AXN WHITE
-http://maiptv.com:8080/ricardo01/98563lop/90537
-#EXTINF:-1,AMC
-http://maiptv.com:8080/ricardo01/98563lop/90538
-#EXTINF:-1,FOX
-http://maiptv.com:8080/ricardo01/98563lop/90539
-#EXTINF:-1,FOX LIFE
-http://maiptv.com:8080/ricardo01/98563lop/90540
-#EXTINF:-1,E!
-http://maiptv.com:8080/ricardo01/98563lop/90541
-#EXTINF:-1,FASHION TV
-http://maiptv.com:8080/ricardo01/98563lop/90542
-#EXTINF:-1,DISCOVERY CHANNEL
-http://maiptv.com:8080/ricardo01/98563lop/90543
-#EXTINF:-1,NAT GEO
-http://maiptv.com:8080/ricardo01/98563lop/90544
-#EXTINF:-1,CANAL HISTORIA
-http://maiptv.com:8080/ricardo01/98563lop/90546
 
 #EXTINF:-1,24/7 Harry Potter (e) (1080) 
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/37755
@@ -198,7 +148,6 @@ http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1031
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1032
 #EXTINF:-1,CINE - HBO 2 (M)(1080)
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/52876
-
 
 
 
