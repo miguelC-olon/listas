@@ -34,25 +34,25 @@ http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/1373
 #EXTINF:-1 tvg-id="MoreMax.us" tvg-name="US: Cinemax MoreMax" tvg-logo="http://www.maxxiptv.net/live/picons/MoreMax.us.png" group-title="Premium Movies (EN)",US: Cinemax MoreMax
 http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/23342
 
-#EXTINF:-1, tele vida group-title="Peliculas en Latino"
+#EXTINF:-1 group-title="Peliculas en Latino", Tele Vida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036261896897417217/PyLR6rnw_400x400.jpg" group-title="Canales Argentina" twitter="elTresTV",Canal 3 Rosario(2)
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w1101133399_b1013840.m3u8
 
-#EXTINF:0,(18)  group-title="Eroticsss", Hardcore HD
+#EXTINF:-1  group-title="Eroticsss (18)", Hardcore HD
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:0,(18)  group-title="Eroticsss", Interracial HD
+#EXTINF:-1 group-title="Eroticsss (18)", Interracial HD
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:0,(18) group-title="Eroticsss", Latina HD 
+#EXTINF:-1 group-title="Eroticsss (18)", Latina HD 
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:0,(18)  group-title="Eroticsss", Lesbian HD
+#EXTINF:-1 group-title="Eroticsss (18)", Lesbian HD
 http://live.redtraffic.xyz/lesbian.m3u8
 
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",Interr
 http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1, Anal Website group-title="Eroticsss"
+#EXTINF:-1 group-title="Eroticsss", Anal Website
 http://live.redtraffic.xyz/anal.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Moda",FASHION TV
