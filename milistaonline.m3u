@@ -1,33 +1,31 @@
 #EXTM3U
-#EXTINF:-1,ARG : Canal 3 Rosario group-title="Canales Argentina"
+#EXTINF:-1 group-title="Canales Argentina",Canal 3 Rosario ARG
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1,|LA| Wow TV group-title="Peliculas en Latino"
+#EXTINF:-1 group-title="Peliculas en Latino",Wow TV LAT 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,American Classic TV
+#EXTINF:-1 group-title="Premium Movies (EN)",American Classic TV
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", Mtv estados unidos
+#EXTINF:-1 group-title="Musica", Mtv estados unidos
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,Fashion TV Midnight  group-title="Moda"
+#EXTINF:-1 group-title="Moda",Fashion TV Midnight  
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 type="stream" channelId="-1", CANAL 3 ROSARIO group-title="Canales Argentina"
+#EXTINF:0 type="stream" channelId="-1" group-title="Canales Argentina", CANAL 3 ROSARIO 
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1,WOW group-title="Peliculas en Latino"
+#EXTINF:-1 group-title="Peliculas en Latino", WOW 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1,JasminTV group-title="Eroticsss"
+#EXTINF:-1 group-title="Eroticsss",JasminTV 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1,**************07-03-21**************
-#EXTINF:-1 ,Extrema TV group-title="Peliculas en Latino"
+#EXTINF:-1 group-title="Peliculas en Latino",Extrema TV 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,|LA| Lancelot Pelis group-title="Peliculas en Latino"
+#EXTINF:-1 group-title="Peliculas en Latino",Lancelot Pelis LAT
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Canales Argentina", 13 Max HD
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peliculas en Latino", Wow TV
+#EXTINF:-1 group-title="Peliculas en Latino", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 tvg-id="BBCWorldS17" tvg-name="CA: Tele Latino" tvg-logo="http://www.maxxiptv.net/live/picons/tln.png" group-title="Canada",CA: Tele Latino
-http://maxx-iptv10.ddns.net:8080/maxx001/2201452295/40607
 
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA: AMC" tvg-logo="http://www.maxxiptv.net/live/picons/AMC.ca.png" group-title="Premium Movies (EN)",CA: AMC
 http://maxx-iptv10.ddns.net:8080/maxx015/7857585044/40776
@@ -41,35 +39,34 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036261896897417217/PyLR6rnw_400x400.jpg" group-title="Canales Argentina" twitter="elTresTV",Canal 3 Rosario(2)
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w1101133399_b1013840.m3u8
 
-#EXTINF:0,(18) RedTraffic Hardcore HD group-title="Eroticsss"
+#EXTINF:0,(18)  group-title="Eroticsss", Hardcore HD
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:0,(18) RedTraffic Interracial HD group-title="Eroticsss"
+#EXTINF:0,(18)  group-title="Eroticsss", Interracial HD
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:0,(18) RedTraffic Latina HD group-title="Eroticsss"
+#EXTINF:0,(18) group-title="Eroticsss", Latina HD 
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:0,(18) RedTraffic Lesbian HD group-title="Eroticsss"
+#EXTINF:0,(18)  group-title="Eroticsss", Lesbian HD
 http://live.redtraffic.xyz/lesbian.m3u8
 
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",Interr
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",Tee
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",Teen
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1, Anal Website group-title="Eroticsss"
 http://live.redtraffic.xyz/anal.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Moda",ENTRETENIMIENTO 2:FASHION TV
+#EXTINF:0 tvg-id="ext" group-title="Moda",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="100592" group-title="Canales Argentina" tvg-name="TV Publica Fueguina" tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png", TV Publica Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108684" group-title="Canales Argentina" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="Canales Mexico",MX | Canal 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="Canales Mexico",Canal 5 HD MX
 http://ultrontv.xyz:80/Tamika/Tamika/73478
-#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 HD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="Canales Mexico",MX | Canal 5 HD MX
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 HD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="Canales Mexico",Canal 5 HD MX
 http://ultrontv.xyz:80/Tamika/Tamika/73653
-
-
-
+#EXTINF:-1 group-title="Canales Mexico", Canal 5
+http://blackaddon.com/play/zufree-121.php?c=3038
 
 
