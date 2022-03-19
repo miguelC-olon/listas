@@ -68,7 +68,19 @@ http://ultrontv.xyz:80/Tamika/Tamika/73478
 http://ultrontv.xyz:80/Tamika/Tamika/73653
 #EXTINF:-1 group-title="Canales Mexico", Canal 5
 http://blackaddon.com/play/zufree-121.php?c=3038
-#EXTINF:-1 group-title="Canales Mexico", Fox Sport Mx
+#EXTINF:-1 group-title="Deportes", Fox Sport Mx
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1073
+#EXTINF:-1 group-title="Deportes", TUDN
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1219
+#EXTINF:-1 group-title="Deportes", TUDN (MX)
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1401
+#EXTINF:-1 group-title="Deportes", TUDN (FHD)
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1218
+#EXTINF:-1 group-title="Deportes", TUDN (FHD MX)
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1400
+
+
+
+
 
 
