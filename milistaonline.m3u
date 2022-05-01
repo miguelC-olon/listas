@@ -41,7 +41,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/c
 
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",Hardcore HD
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",nterracial HD
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",Interracial HD
 http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Eroticsss",Latina HD 
 http://live.redtraffic.xyz/latina.m3u8
@@ -62,12 +62,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108684" group-title="Canales Argentina" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="Canales Mexico",Canal 5 HD MX
-http://ultrontv.xyz:80/Tamika/Tamika/73478
-#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 HD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="Canales Mexico",Canal 5 HD MX
-http://ultrontv.xyz:80/Tamika/Tamika/73653
-#EXTINF:-1 group-title="Canales Mexico", Canal 5
-http://blackaddon.com/play/zufree-121.php?c=3038
 #EXTINF:-1 group-title="Deportes", Fox Sport Mx
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1073
 #EXTINF:-1 group-title="Deportes", TUDN
@@ -79,8 +73,15 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1218
 #EXTINF:-1 group-title="Deportes", TUDN (FHD MX)
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1400
 
-
-
-
-
-
+#EXTINF:-1 group-title="Canales Mexico",AZTECA UNO MX
+http://clubtv.link/2ene/smartv.php?c=aztecauno&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="Canales Mexico",EL DOS MX
+http://clubtv.link/2ene/smartv.php?c=eldos&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="Canales Mexico",CANAL 5 MX
+http://clubtv.link/2ene/smartv.php?c=elcinco&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="Canales Mexico",AZTECA 7
+http://clubtv.link/2ene/smartv.php?c=azteca7&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="Canales Mexico",EL NUEVE MX
+http://clubtv.link/2ene/smartv.php?c=elnueve&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="Canales Mexico",IMAGEN TV
+http://clubtv.link/2ene/smartv.php?c=imagentv&k=tecno&f=.m3u8
