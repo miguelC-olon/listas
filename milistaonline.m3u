@@ -77,6 +77,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1400
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="Canales Mexico",Canal 5 Mx
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="Canales Mexico",ESPN 7
+http://200.60.124.19:29000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Canales USA",TUDN USA (720)
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token
 
