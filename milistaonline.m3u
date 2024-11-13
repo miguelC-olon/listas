@@ -72,7 +72,7 @@ http://200.60.124.19:29000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Canales USA",TUDN USA (720)
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token
 
-***************12-11-24*************************
+#EXTINF:-1,***************12-11-24*************************
 #EXTINF:-1 group-title="Bics Latino", AR: TELEFE
 http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
@@ -98,7 +98,6 @@ http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P70g6
 
 #EXTINF:-1 group-title="Bics DEPORTES", TUDN US
 http://tvmate.icu:8080/Alan/Alan1234/82241
-******************
 
 
 
