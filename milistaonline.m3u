@@ -72,4 +72,31 @@ http://200.60.124.19:29000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Canales USA",TUDN USA (720)
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token
 
+***************12-11-24*************************
+#EXTINF:-1 group-title="Bics Latino", AR: TELEFE
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
+
+#EXTINF:-1 group-title="Bics DEPORTES", Espn Deportes
+http://supersonictv.live:8080/329474/903964/22222
+#EXTINF:-1 group-title="Bics DEPORTES", Espn
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsPsiEhUlS1TF1qXugAR5f3E/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Espn 2
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Espn 3
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
+
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Deportes Español
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports Premium
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvPz6fz3zlvdtFME8yi-bwWG/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqxiA-lzsuN24U2f3M6xz-jn5sYK0BNthSk0J2jHcI99/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports 2
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHNzbdQpwM7dcuchcc0vF7WH/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports 3
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P70g64RRyYkiIRr/ts
+
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN US
+http://tvmate.icu:8080/Alan/Alan1234/82241
+******************
 
