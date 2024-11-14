@@ -109,42 +109,41 @@ http://190.60.32.178:8178/play/a02w/index.m3u8
 http://190.60.32.178:8178/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN Premium HD
 http://209.45.20.210:50001/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Argentina",El Trece
+#EXTINF:-1 group-title="Canales Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-EXTINF:-1 group-title="Argentina",Telefe Santa Fe
+#EXTINF:-1 group-title="Canales Argentina",Telefe Santa Fe
 https://ythls.armelin.one/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
-EXTINF:-1 group-title="Argentina",Telefe Rosario
+#EXTINF:-1 group-title="Canales Argentina",Telefe Rosario
 https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
-EXTINF:-1 group-title="Argentina",Telefe Cordoba
+#EXTINF:-1 group-title="Canales Argentina",Telefe Cordoba
 https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
-EXTINF:-1 group-title="Argentina",America
+#EXTINF:-1 group-title="Canales Argentina",America
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-EXTINF:-1 group-title="Argentina",America2
+#EXTINF:-1 group-title="Canales Argentina",America (2)
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-
+#EXTINF:-1 group-title="Mexico",Imagen TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1,group-title="Mexico",105 Cinco
 http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1,group-title="Mexico",106 Multimedios
+#EXTINF:-1 group-title="Mexico",106 Multimedios
 http://181.78.105.146:2000/play/a039/index.m3u8
-#EXTINF:-1,group-title="Mexico",107 Siete
+#EXTINF:-1 group-title="Mexico",107 Siete
 http://181.78.105.146:2000/play/a00i/index.m3u8
-#EXTINF:-1,group-title="Mexico",111 ONCE
+#EXTINF:-1 group-title="Mexico",111 ONCE
 http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:-1,group-title="Deportes Mexico",336 Claro Sport
+#EXTINF:-1 group-title="Deportes Mexico",336 Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1,group-title="Deportes Mexico",338 ESPN 2
+#EXTINF:-1 group-title="Deportes Mexico",338 ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1,group-title="Deportes Mexico",342 ESPN
+#EXTINF:-1 group-title="Deportes Mexico",342 ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1,group-title="Deportes Mexico",344 ESPN3
+#EXTINF:-1 group-title="Deportes Mexico",344 ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1,group-title="Deportes Mexico",TUDN
+#EXTINF:-1 group-title="Deportes Mexico",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1,group-title="Peliculas Mexico",386 StudioUniversal
+#EXTINF:-1 group-title="Peliculas Mexico",386 StudioUniversal
 http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1,group-title="Peliculas Mexico",388 Paramount
-#EXTINF:-1,group-title="Deportes Argentina",TyC Sports
-http://181.78.105.146:2000/play/a095/index.m3u8
-
+#EXTINF:-1 group-title="Peliculas Mexico",388 Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",TyC Sports
+http://181.78.105.146:2000/play/a095/index.m3u8
