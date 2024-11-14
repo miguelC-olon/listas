@@ -61,8 +61,6 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LIGA MX", LIGA MX US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LIGA MX", LIGA MX US: TELEMUNDO
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LIGA MX", LIGA MX: CALIENTE TV [NOT 24/7]
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS
@@ -93,13 +91,13 @@ http://190.60.32.178:8178/play/a02x/index.m3u8
 http://181.78.8.90:16123/play/ch18
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
 http://190.60.32.178:8178/play/a015/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD Arg
 http://190.60.32.178:8178/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
 http://181.78.8.90:16123/play/ch19
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
 http://190.60.32.178:8178/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 6
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 6 Arg
 http://190.60.32.178:8178/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
 http://209.45.20.210:50001/play/a00w/index.m3u8
@@ -123,7 +121,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 group-title="Mexico",Imagen TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1,group-title="Mexico",105 Cinco
+#EXTINF:-1 group-title="Mexico",105 Cinco
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Mexico",106 Multimedios
 http://181.78.105.146:2000/play/a039/index.m3u8
@@ -133,9 +131,9 @@ http://181.78.105.146:2000/play/a00i/index.m3u8
 http://181.78.105.146:2000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Deportes Mexico",336 Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Deportes Mexico",338 ESPN 2
+#EXTINF:-1 group-title="Deportes Mexico",338 ESPN 2 Arg
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Deportes Mexico",342 ESPN
+#EXTINF:-1 group-title="Deportes Mexico",342 ESPN Arg
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deportes Mexico",344 ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
@@ -145,6 +143,11 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="Peliculas Mexico",388 Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: SKY CINEMA ACTION
+http://tvmate.icu:8080/live/7686199/9576982/35254.m3u8
+#EXTINF:-1 group-title="Bics US", CA: CTV SCI FI
+http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",TyC Sports
 http://181.78.105.146:2000/play/a095/index.m3u8
-
+#EXTINF:-1 group-title="Bics DEPORTES", Sky SPort La Liga
+http://181.78.105.146:2000/play/a08m/index.m3u8
