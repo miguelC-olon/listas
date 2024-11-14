@@ -111,6 +111,8 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",Telefe Santa Fe
 https://ythls.armelin.one/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
+#EXTINF:-1 group-title="Canales Argentina",RTS Medios Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 group-title="Canales Argentina",Telefe Rosario
 https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 #EXTINF:-1 group-title="Canales Argentina",Telefe Cordoba
