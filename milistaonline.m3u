@@ -163,6 +163,168 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Deportes",FOX 
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-
-
-
+#EXTINF:-1 group-title="Canales Argentina",TELEFE 
+http://181.78.82.6:46090/play/a064/index.m3u8
+#EXTINF:-1 group-title="Deportes",TYC SPORTS HD
+http://181.78.82.6:46090/play/a024/index.m3u8
+#EXTINF:-1 group-title="Deportes",WIN SPORTS + HD
+http://181.78.82.6:46090/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Universal Premiere SD
+http://181.78.82.6:46090/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",UNIVERSAL TV HD
+http://181.78.82.6:46090/play/a060/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",UNIVISION HD
+http://181.78.82.6:46090/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",WARNER TV HD
+http://181.78.82.6:46090/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",TNT HD
+http://181.78.82.6:46090/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",TNT Novelas HD
+http://181.78.82.6:46090/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",TNT SERIES HD
+http://181.78.82.6:46090/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",TNT SERIES HD
+#EXTINF:-1 group-title="Peliculas en Latino",A&E HD
+http://181.78.82.6:46090/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",ADULT SWIM HD
+http://181.78.82.6:46090/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",AMC HD
+http://181.78.82.6:46090/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Canales Argentina",AMERICA TV HD
+http://181.78.82.6:46090/play/a022/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",AXN HD
+http://181.78.82.6:46090/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",CINE PREMIUM HD
+http://181.78.82.6:46090/play/a050/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",CINE FAMILIAR HD
+http://181.78.82.6:46090/play/a051/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",CINE HISPANO HD
+http://181.78.82.6:46090/play/a052/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",CINECANAL HD
+http://181.78.82.6:46090/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",CINEMAX HD
+http://181.78.82.6:46090/play/a010/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Clover HD
+http://181.78.82.6:46090/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Canales Argentina",CNN EN ESPAÑOL
+http://181.78.82.6:46090/play/a034/index.m3u8
+#EXTINF:-1 group-title="Canales Argentina",CNN International
+http://181.78.82.6:46090/play/a036/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",COMEDY CENTRAL HD
+http://181.78.82.6:46090/play/a011/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",DISCOVERY H&H HD
+http://181.78.82.6:46090/play/a018/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",DISCOVERY ID HD
+http://181.78.82.6:46090/play/a012/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Disney HD
+http://181.78.82.6:46090/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",DISNEY JR HD
+http://181.78.82.6:46090/play/a046/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",DW
+http://181.78.82.6:46090/play/a039/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",E! ENTERTAIMENT HD
+http://181.78.82.6:46090/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Canales Argentina",El Gourmet HD
+http://181.78.82.6:46090/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4 HD
+http://181.78.82.6:46090/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 5 HD
+http://181.78.82.6:46090/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 6 HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 7 HD
+http://181.78.82.6:46090/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN COL HD
+http://181.78.82.6:46090/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN ARG HD
+http://181.78.82.6:46090/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN CHI HD
+http://181.78.82.6:46090/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN PREMIUM HD
+http://181.78.82.6:46090/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",FX HD
+http://181.78.82.6:46090/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",GLOBOVISION
+http://181.78.82.6:46090/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Deportes",GOLPERU HD
+http://181.78.82.6:46090/play/a025/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",GOLDEN HD
+http://181.78.82.6:46090/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",GOLDEN PLUS
+http://181.78.82.6:46090/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Deportes",GOLTV HD
+http://181.78.82.6:46090/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO 2 HD
+http://181.78.82.6:46090/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Family HD
+http://181.78.82.6:46090/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO HD
+http://181.78.82.6:46090/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO MUNDI
+http://181.78.82.6:46090/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Plus
+http://181.78.82.6:46090/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO POP HD
+http://181.78.82.6:46090/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO XTREME HD
+http://181.78.82.6:46090/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HGTV
+http://181.78.82.6:46090/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HISTORY HD
+http://181.78.82.6:46090/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HISTORY 2 HD
+http://181.78.82.6:46090/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HOLA TV HD
+http://181.78.82.6:46090/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HTV
+http://181.78.82.6:46090/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HGTV
+http://181.78.82.6:46090/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",KANAL D DRAMA HD
+http://181.78.82.6:46090/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",LA KALLE HD
+http://181.78.82.6:46090/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",LA RED HD
+http://181.78.82.6:46090/play/a05s/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Las Estrellas HD
+http://181.78.82.6:46090/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",LATINA HD
+http://181.78.82.6:46090/play/a023/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",PARAMOUNT HD
+http://181.78.82.6:46090/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",SONY HD
+http://181.78.82.6:46090/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Sony Movies HD
+http://216.244.200.34:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",SPACE HD
+http://181.78.82.6:46090/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",STAR TVE HD
+http://181.78.82.6:46090/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",STINGRAY CONCERTS HD
+http://181.78.82.6:46090/play/a020/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",STUDIO UNIVERSAL HD
+http://181.78.82.6:46090/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",SUN CHANNEL HD
+http://181.78.82.6:46090/play/a016/index.m3u8
+#EXTINF:-1 group-title="Musica",MI MUSICA HITS
+http://181.78.82.6:46090/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Musica",MI MUSICA POPULAR
+http://181.78.82.6:46090/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Musica",MI MUSICA SALSA
+http://181.78.82.6:46090/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV HD
+http://181.78.82.6:46090/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV 00s HD
+http://181.78.82.6:46090/play/a062/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV LIVE HD
+http://181.78.82.6:46090/play/a061/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",MULTIPREMIER HD
+http://181.78.82.6:46090/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",NAT GEO HD
+http://181.78.82.6:46090/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Moda", Fashion TV
+http://193.106.124.204:8002/play/a05p
