@@ -159,9 +159,9 @@ http://181.78.82.6:46090/play/a051/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINE HISPANO HD
 http://181.78.82.6:46090/play/a052/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINECANAL HD
-http://181.78.82.6:46090/play/a01j/index.m3u8
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/73
 #EXTINF:-1 group-title="Peliculas en Latino",CINEMAX HD
-http://181.78.82.6:46090/play/a010/index.m3u8
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82
 #EXTINF:-1 group-title="Peliculas en Latino",Clover HD
 http://181.78.82.6:46090/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",CNN EN ESPAÑOL
@@ -210,8 +210,6 @@ http://181.78.82.6:46090/play/a01z/index.m3u8
 http://181.78.82.6:46090/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO MUNDI
 http://181.78.82.6:46090/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",HBO XTREME HD
-http://181.78.82.6:46090/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HGTV
 http://181.78.82.6:46090/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HISTORY 2 HD
@@ -233,7 +231,7 @@ http://181.78.82.6:46090/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",LATINA HD
 http://181.78.82.6:46090/play/a023/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",PARAMOUNT HD
-http://181.78.82.6:46090/play/a01p/index.m3u8
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1166
 #EXTINF:-1 group-title="Peliculas en Latino",Sony Movies HD
 http://216.244.200.34:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",SPACE HD
@@ -272,5 +270,27 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/110
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
 #EXTINF:-1 group-title="Deportes",Fox Sports Latino
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
-#EXTINF:-1,Discovery H&H 2 Latino
+#EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H 2 Latino
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/9
+#EXTINF:-1 group-title="Deportes",ESPN Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Latino 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Plus
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/610
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Xtreme
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
+#EXTINF:-1 group-title="Peliculas en Latino",History Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/57
+#EXTINF:-1 group-title="Peliculas en Latino",Sony
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/16
+#EXTINF:-1 group-title="Peliculas en Latino",Star Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
+#EXTINF:-1 group-title="Deportes",TyC Sports Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
+#EXTINF:-1 group-title="Musica",VH1 Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
