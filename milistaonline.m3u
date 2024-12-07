@@ -264,3 +264,14 @@ http://181.78.82.6:46090/play/a04z/index.m3u8
 http://181.78.82.6:46090/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Moda", Fashion TV
 http://193.106.124.204:8002/play/a05p
+#EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/62
+#EXTINF:-1 group-title="Peliculas en Latino",Discovery Science Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/110
+#EXTINF:-1 group-title="Peliculas en Latino",A&E Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
+#EXTINF:-1 group-title="Deportes",Fox Sports Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
+#EXTINF:-1,Discovery H&H 2 Latino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
+
