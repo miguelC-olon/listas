@@ -17,7 +17,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 group-title="Deportes",ESPN 7
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
-#EXTINF:-1 group-title="Deportes", Espn Deportes
+#EXTINF:-1 group-title="Deportes", Espn España
 http://supersonictv.live:8080/329474/903964/22222
 #EXTINF:-1 group-title="Deportes", Fox Deportes Español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
@@ -37,6 +37,8 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 group-title="Deportes",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN
+http://181.78.109.49:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
@@ -45,36 +47,20 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN VIVO
 http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 group-title="Deportes",ESPN
-http://190.60.32.178:8178/play/a02k/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN VIVO
-http://38.51.233.85:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD
 http://181.78.8.90:16123/play/ch17
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD
-http://38.51.233.85:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD
-http://190.60.32.178:8178/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD
 http://181.78.8.90:16123/play/ch18
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD
 http://190.60.32.178:8178/play/a015/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4 HD Arg
-http://190.60.32.178:8178/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 5
 http://181.78.8.90:16123/play/ch19
-#EXTINF:-1 group-title="Deportes",ESPN 5
-http://190.60.32.178:8178/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 6 Arg
-http://190.60.32.178:8178/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 7
 http://209.45.20.210:50001/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 7
 http://190.60.32.178:8178/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 7
 http://190.60.32.178:8178/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Premium HD
-http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",RTS Medios Santa Fe
@@ -99,17 +85,22 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Deportes",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Film & arts HD
+http://181.78.109.49:8000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",386 StudioUniversal
 http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",388 Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Paramount HD
+http://181.78.109.49:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="US movies", US: SKY CINEMA ACTION
 http://tvmate.icu:8080/live/7686199/9576982/35254.m3u8
-#EXTINF:-1 group-title="US movies", CA: CTV SCI FI
+#EXTINF:-1 group-title="US movies", US: CTV SCI FI
 http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
-#EXTINF:-1 group-title="Deportes",TyC Sports
-http://181.78.105.146:2000/play/a095/index.m3u8
 #EXTINF:-1 group-title="Deportes", Sky SPort La Liga
+#EXTINF:-1 group-title="Deportes",LA LIGA
+http://181.78.109.49:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="Deportes",Sky LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="US movies", US: PARAMOUNT NETWORK
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129938.m3u8
@@ -151,7 +142,7 @@ http://181.78.82.6:46090/play/a01k/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",AMERICA TV HD
 http://181.78.82.6:46090/play/a022/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",AXN HD
-http://181.78.82.6:46090/play/a00g/index.m3u8
+http://181.78.109.49:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINE PREMIUM HD
 http://181.78.82.6:46090/play/a050/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINE FAMILIAR HD
@@ -159,9 +150,11 @@ http://181.78.82.6:46090/play/a051/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINE HISPANO HD
 http://181.78.82.6:46090/play/a052/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINECANAL HD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/73
+https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINEMAX HD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82
+https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Atres Series
+http://181.78.109.49:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Clover HD
 http://181.78.82.6:46090/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",CNN EN ESPAÑOL
@@ -195,7 +188,9 @@ http://181.78.82.6:46090/play/a03d/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN PREMIUM HD
 http://181.78.82.6:46090/play/a02g/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",FX HD
-http://181.78.82.6:46090/play/a01f/index.m3u8
+http://sc.id-tv.kz/FOX_HD.m3u8
+##EXTINF:-1 group-title="Peliculas en Latino", FX (TV abierta)
+https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",GLOBOVISION
 http://181.78.82.6:46090/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Deportes",GOLPERU HD
@@ -212,6 +207,10 @@ http://181.78.82.6:46090/play/a01t/index.m3u8
 http://181.78.82.6:46090/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HGTV
 http://181.78.82.6:46090/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino", HISTORY
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino", HISTORY (TV abierta)
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HISTORY 2 HD
 http://181.78.82.6:46090/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HOLA TV HD
@@ -274,8 +273,10 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
 #EXTINF:-1 group-title="Deportes",Fox Sports 2 Latino
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
-#EXTINF:-1 group-title="Peliculas en Latino",HBO Latino
+#EXTINF:-1 group-title="Peliculas en Latino",ADN Latino
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/9
+#EXTINF:-1 group-title="Peliculas en Latino",HBO +
+https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Latino
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Latino 2
@@ -284,6 +285,8 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/610
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Xtreme
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
+#EXTINF:-1 group-title="Peliculas en Latino",HBO HD
+http://181.78.109.49:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",History Channel
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/57
 #EXTINF:-1 group-title="Peliculas en Latino",Sony
