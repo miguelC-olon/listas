@@ -97,7 +97,6 @@ http://181.78.109.49:8000/play/a063/index.m3u8
 http://tvmate.icu:8080/live/7686199/9576982/35254.m3u8
 #EXTINF:-1 group-title="US movies", US: CTV SCI FI
 http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
-#EXTINF:-1 group-title="Deportes", Sky SPort La Liga
 #EXTINF:-1 group-title="Deportes",LA LIGA
 http://181.78.109.49:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="Deportes",Sky LA LIGA
@@ -261,39 +260,31 @@ http://181.78.82.6:46090/play/a04z/index.m3u8
 http://181.78.82.6:46090/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Moda", Fashion TV
 http://193.106.124.204:8002/play/a05p
-#EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/62
-#EXTINF:-1 group-title="Peliculas en Latino",Discovery Science Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/110
-#EXTINF:-1 group-title="Peliculas en Latino",A&E Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
-#EXTINF:-1 group-title="Deportes",Fox Sports Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
-#EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H 2 Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
-#EXTINF:-1 group-title="Deportes",Fox Sports 2 Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
-#EXTINF:-1 group-title="Peliculas en Latino",ADN Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/9
+#EXTINF:-1 group-title="Peliculas en Latino",Discovery Home & Health
+http://187.249.112.44:9981/stream/channelid/185103269?profile=pass
+#EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H HD
+http://181.174.228.134:8998/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Discovery HD
+http://181.174.228.134:8998/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Discovery World HD
+http://181.174.228.134:8998/play/a006/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Premium HD
+http://181.174.228.134:8998/play/a010/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO +
 https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
-#EXTINF:-1 group-title="Peliculas en Latino",HBO Latino 2
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
-#EXTINF:-1 group-title="Peliculas en Latino",HBO Plus
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/610
+#EXTINF:-1 group-title="Peliculas en Latino",HBO HD
+http://181.174.228.134:8998/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO POP
+http://181.174.228.134:8998/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Xtreme
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
+http://181.174.228.134:8998/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO HD
 http://181.78.109.49:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",History Channel
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/57
 #EXTINF:-1 group-title="Peliculas en Latino",Sony
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/16
+http://45.5.116.178:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Star Channel
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
+http://45.5.116.178:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Deportes",TyC Sports Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
-#EXTINF:-1 group-title="Musica",VH1 Latino
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
+http://181.174.228.134:8998/play/a024/index.m3u8
+#EXTINF:-1 group-title="Peliculoas en Latino",Paramount HD
+http://181.174.228.134:8998/play/a00v/index.m3u8
