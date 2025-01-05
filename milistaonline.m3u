@@ -270,13 +270,13 @@ http://45.5.116.178:8000/play/a040/index.m3u8
 http://45.5.116.178:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Deportes",TyC Sports Latino
 http://181.174.228.134:8998/play/a024/index.m3u8
-#EXTINF:-1 group-title="Peliculoas en Latino",Paramount HD
+#EXTINF:-1 group-title="Peliculas en Latino",Paramount HD
 http://181.174.228.134:8998/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Peliculoas en Latino",STAR CHANNEL
+#EXTINF:-1 group-title="Peliculas en Latino",STAR CHANNEL
 http://187.249.112.44:9981/stream/channelid/1416842020?profile=pass
 #EXTINF:-1 group-title="Canales Argentina", AR EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="Peliculoas en Latino", Porpcorn Central
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="Peliculas en Latino", Porpcorn Central
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 group-title="Canales Argentina", GARAGETV
 https://stream1.sersat.com/hls/garagetv.m3u8
