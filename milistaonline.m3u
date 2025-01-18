@@ -232,12 +232,12 @@ http://181.78.82.6:46090/play/a01x/index.m3u8
 http://181.78.82.6:46090/play/a04v/index.m3u8
 #EXTINF:-1 group-title="Musica",MI MUSICA SALSA
 http://181.78.82.6:46090/play/a04w/index.m3u8
-#EXTINF:-1 group-title="Musica",MTV HD
-http://181.78.82.6:46090/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV CLASSIC
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Musica",MTV 00s HD
 http://181.78.82.6:46090/play/a062/index.m3u8
 #EXTINF:-1 group-title="Musica",MTV LIVE HD
-http://181.78.82.6:46090/play/a061/index.m3u8
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",MULTIPREMIER HD
 http://181.78.82.6:46090/play/a04z/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",NAT GEO HD
@@ -280,3 +280,5 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 group-title="Canales Argentina", GARAGETV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="Deportes", Fox Deportes Español
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
