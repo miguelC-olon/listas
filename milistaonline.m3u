@@ -255,9 +255,9 @@ http://181.174.228.134:8998/play/a006/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Premium HD
 http://181.174.228.134:8998/play/a010/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO +
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",HBO HD
-http://181.174.228.134:8998/play/a00d/index.m3u8
+ttps://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Family
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO POP
 http://181.174.228.134:8998/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Xtreme
