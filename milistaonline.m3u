@@ -328,8 +328,6 @@ http://181.204.79.182:8202/play/a01z
 http://181.78.74.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino", TNT
 http://181.205.130.194:4000/play/a06n
-#EXTINF:-1 group-title="Peliculas en Latino",Dicovery h&h
-http://179.189.222.226:8000/play/ch25
 #EXTINF:-1 group-title="Peliculas en Latino",CINE PREMIUM
 http://179.189.222.226:8000/play/ch49
 #EXTINF:-1 group-title="Mexico",AZTECA 7
@@ -358,3 +356,5 @@ http://45.184.87.142:8000/play/a03a
 http://181.78.106.127:9000/play/ca082/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINEMAX
 http://181.78.106.127:9000/play/ca079/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Dicovery h&h
+http://179.189.222.226:8000/play/ch25
