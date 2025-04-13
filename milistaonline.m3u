@@ -287,13 +287,13 @@ http://181.78.106.127:9000/play/ca031/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN extra
 http://181.78.74.69:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H
-http://179.189.222.226:8000/play/ch22
+190.217.23.56:1010/play/a0cg/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 group-title="Mexico", Canal 5
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Family
-http://170.39.192.130:2095/56942505562play/060123play/315092
+http://190.217.23.56:1010/play/a0e0/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Deportes", VIX LALIGA 🇲🇽
@@ -321,10 +321,6 @@ http://190.108.85.154:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino", Cinecanal
 http://190.108.85.154:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO +
-http://190.2.212.209:8050/play/a0mv
-#EXTINF:-1 group-title="Peliculas en Latino",HBO +
-http://181.204.79.182:8202/play/a01z
-#EXTINF:-1 group-title="Peliculas en Latino",HBO +
 http://181.78.74.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino", TNT
 http://181.205.130.194:4000/play/a06n
@@ -346,8 +342,8 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315520
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/340989
 #EXTINF:-1 group-title="Peliculas en Latino",Saga (Harry Potter) 24/7
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/340994
-#EXTINF:-1 group-title="Peliculas en Latino",HBO 2
-http://170.39.192.130:2095/56942505562play/060123play/315144
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Plus
+190.217.23.56:1010/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Golden
 http://181.78.106.127:9000/play/ca076/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Golden Premier
@@ -358,3 +354,7 @@ http://181.78.106.127:9000/play/ca082/index.m3u8
 http://181.78.106.127:9000/play/ca079/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Dicovery h&h
 http://179.189.222.226:8000/play/ch25
+#EXTINF:-1 group-title="Peliculas en Latino",HBO Xtreme
+http://190.217.23.56:1010/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO 2
+http://190.217.23.56:1010/play/a0dd/index.m3u8
