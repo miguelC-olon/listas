@@ -30,13 +30,13 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 group-title="Deportes", MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="Deportes", MX: FOX SPORTS ESPAÑOL
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+http://45.68.35.218:4001/play/a021/index.m3u8
 #EXTINF:-1 group-title="Deportes",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN VIVO ARG
 http://179.63.36.2:8000/play/a0o2/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
+http://181.78.106.127:9000/play/ca034/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3
@@ -49,6 +49,8 @@ http://181.78.8.90:16123/play/ch17
 http://179.63.36.2:8000/play/a0oh/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD
 http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 5
+http://190.60.56.41:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 5
 http://181.78.74.69:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 7
@@ -343,7 +345,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/340989
 #EXTINF:-1 group-title="Peliculas en Latino",Saga (Harry Potter) 24/7
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/340994
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Plus
-190.217.23.56:1010/play/a0dp/index.m3u8
+http://190.217.23.56:1010/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Golden
 http://181.78.106.127:9000/play/ca076/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Golden Premier
@@ -352,9 +354,23 @@ http://45.184.87.142:8000/play/a03a
 http://181.78.106.127:9000/play/ca082/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINEMAX
 http://181.78.106.127:9000/play/ca079/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",Dicovery h&h
-http://179.189.222.226:8000/play/ch25
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Xtreme
 http://190.217.23.56:1010/play/a0e1/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO 2
 http://190.217.23.56:1010/play/a0dd/index.m3u8
+#EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="Deportes",TUDN
+http://45.68.35.218:4001/play/a01u/index.m3u8
+#EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="Deportes",ESPN Nt 1 (IZZITV)
+http://181.78.109.48:8000/play/a05y/index.m3u8
+#EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="Deportes",TUDN MX (IZZITV)
+http://45.68.35.218:4001/play/a011/index.m3u8
+#EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="Deportes",TUDN USA (IZZITV)
+http://tvmate.icu:8080/Alan/Alan1234/82241
+#EXTINF:-1 group-title="Deportes",ESPN Premium
+http://190.60.56.41:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",National Geographic
+http://190.60.56.41:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Space
+http://190.60.56.41:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H HD
+181.189.241.114:5050/play/a0qe
