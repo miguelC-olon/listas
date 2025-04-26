@@ -373,4 +373,4 @@ http://190.60.56.41:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Space
 http://190.60.56.41:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H HD
-181.189.241.114:5050/play/a0qe
+http://181.189.241.114:5050/play/a0qe
