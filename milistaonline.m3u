@@ -57,14 +57,14 @@ http://181.78.74.69:8000/play/a05v/index.m3u8
 http://190.61.42.218:9000/play/a01j
 #EXTINF:-1 group-title="Mexico",Imagen TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Mexico",105 Cinco
-http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 5 Cinco
+http://181.78.106.127:9000/play/ca012/index.m3u8
 #EXTINF:-1 group-title="Mexico",106 Multimedios
 http://181.78.105.146:2000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Mexico",107 Siete
-http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 7 Siete
+http://38.180.133.31:8000/play/a0ob/index.m3u8
 #EXTINF:-1 group-title="Mexico",111 ONCE
-http://181.78.105.146:2000/play/a03a/index.m3u8
+http://181.78.106.127:9000/play/ca002/index.m3u8
 #EXTINF:-1 group-title="Deportes",336 Claro Sport Mx
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Deportes",338 ESPN 2 Arg
@@ -293,7 +293,7 @@ http://181.78.74.69:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 group-title="Mexico", Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+http://45.68.35.218:4001/play/a009/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Family
 http://190.217.23.56:1010/play/a0e0/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN DEPORTES 🇺🇸
