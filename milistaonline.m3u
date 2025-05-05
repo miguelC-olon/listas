@@ -358,13 +358,13 @@ http://181.78.106.127:9000/play/ca079/index.m3u8
 http://190.217.23.56:1010/play/a0e1/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO 2
 http://190.217.23.56:1010/play/a0dd/index.m3u8
-#EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="Deportes",TUDN
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="Deportes",TUDN
 http://45.68.35.218:4001/play/a01u/index.m3u8
-#EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="Deportes",ESPN Nt 1 (IZZITV)
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="Deportes",ESPN Nt 1 (IZZITV)
 http://181.78.109.48:8000/play/a05y/index.m3u8
-#EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="Deportes",TUDN MX (IZZITV)
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="Deportes",TUDN MX (IZZITV)
 http://45.68.35.218:4001/play/a011/index.m3u8
-#EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="Deportes",TUDN USA (IZZITV)
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="Deportes",TUDN USA (IZZITV)
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 group-title="Deportes",ESPN Premium
 http://190.60.56.41:8000/play/a00z/index.m3u8
