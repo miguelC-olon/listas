@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Peliculas en Latino",Wow TV LAT 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Canales Argentina", CANAL 3 ROSARIO 
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino", WOW 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
@@ -12,7 +10,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Moda",FASHION TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+#EXTINF:-1 tvg-id="Fashion TV Midnight Secrets" tvg-logo="https://pictr.com/images/2024/01/04/EXDfiv.png" group-title="Moda" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",FASHION TV MIDNIGHT SECRETS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Deportes",ESPN 7
 http://200.60.124.19:29000/play/a01e/index.m3u8
@@ -42,19 +42,17 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3
 http://181.78.106.127:9000/play/ca035/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN VIVO ARG
-167.250.180.251:4000/play/a0i2/index.m3u8
+http://167.250.180.251:4000/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD
 http://181.78.8.90:16123/play/ch17
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD
 http://200.60.124.19:29000/play/a02e
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD
-181.189.241.114:5050/play/a032
-#EXTINF:-1 group-title="Deportes",ESPN 5
-http://190.60.56.41:8000/play/a00p/index.m3u8
+http://181.189.241.114:5050/play/a032
 #EXTINF:-1 group-title="Deportes",ESPN 5
 http://181.78.74.69:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 7
-http://190.61.42.218:9000/play/a01j
+http://181.78.4.186:8000/play/a0fg/index.m3u8
 #EXTINF:-1 group-title="Mexico",Imagen TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Mexico",Canal 5 Cinco
@@ -77,10 +75,6 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 http://181.78.109.49:8000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",386 StudioUniversal
 http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",388 Paramount
-http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",Paramount HD
-http://179.63.36.2:8000/play/a0q1/index.m3u8
 #EXTINF:-1 group-title="US movies", US: SKY CINEMA ACTION
 http://tvmate.icu:8080/live/7686199/9576982/35254.m3u8
 #EXTINF:-1 group-title="US movies", US: CTV SCI FI
@@ -89,8 +83,6 @@ http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="Deportes",Sky LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="US movies", US: PARAMOUNT NETWORK
-http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129938.m3u8
 #EXTINF:-1 group-title="Deportes", US: YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Deportes", MX: AYM SPORTS
@@ -104,11 +96,11 @@ http://181.78.82.6:46090/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS HD
 http://181.78.82.6:46090/play/a024/index.m3u8
 #EXTINF:-1 group-title="Deportes",WIN SPORTS + HD
-http://181.78.82.6:46090/play/a01u/index.m3u8
+181.78.4.186:8000/play/a0s4/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Universal Premiere SD
 http://190.61.42.218:9000/play/a006
 #EXTINF:-1 group-title="Peliculas en Latino",UNIVERSAL TV HD
-http://181.78.82.6:46090/play/a060/index.m3u8
+http://181.78.4.186:8000/play/a0em/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",UNIVISION HD
 http://181.78.82.6:46090/play/a04x/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",WARNER TV HD
@@ -194,34 +186,16 @@ http://181.78.82.6:46090/play/a05b/index.m3u8
 http://181.78.82.6:46090/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",LATINA HD
 http://181.78.82.6:46090/play/a023/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",PARAMOUNT HD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1166
 #EXTINF:-1 group-title="Peliculas en Latino",Sony Movies HD
 http://216.244.200.34:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",SPACE HD
 http://181.78.82.6:46090/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",STAR TVE HD
-http://181.78.82.6:46090/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",STUDIO UNIVERSAL HD
-http://181.78.74.69:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",SUN CHANNEL HD
-http://179.189.222.226:8000/play/ch48
-#EXTINF:-1 group-title="Musica",MI MUSICA POPULAR
-http://179.189.222.226:8000/play/ch56
-#EXTINF:-1 group-title="Musica",MI MUSICA SALSA
-http://179.189.222.226:8000/play/ch55
 #EXTINF:-1 group-title="Musica",MTV 
 http://201.182.248.254:8888/play/a0bj/index.m3u8
 #EXTINF:-1 group-title="Musica",MTV LIVE HD
-http://45.190.187.105:58092/play/a05h
+http://181.78.4.186:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",MULTIPREMIER HD
 http://181.78.82.6:46090/play/a04z/index.m3u8
-#EXTINF:-1 group-title="Moda", Fashion TV
-http://193.106.124.204:8002/play/a05p
-#EXTINF:-1 group-title="Peliculas en Latino",Discovery Home & Health
-http://187.249.112.44:9981/stream/channelid/185103269?profile=pass
-#EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H HD (old)
-http://181.174.228.134:8998/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Discovery HD
 http://181.174.228.134:8998/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Discovery World HD
@@ -231,19 +205,17 @@ http://181.174.228.134:8998/play/a010/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO +
 http://181.78.106.127:9000/play/ca070/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Family
-http://38.180.133.31:8000/play/a0le/index.m3u8
+http://181.78.109.48:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO POP
-http://38.180.133.31:8000/play/a0t4/index.m3u8
+http://181.176.153.105:8090/play/a0qc/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO Xtreme
-http://181.174.228.134:8998/play/a01i/index.m3u8
+http://181.78.4.186:8000/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO HD
-http://181.78.109.49:8000/play/a017/index.m3u8
+http://181.78.109.48:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Sony
 http://45.5.116.178:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Star Channel
 http://179.49.163.34:45000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",Paramount HD
-http://181.174.228.134:8998/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",STAR CHANNEL
 http://206.62.161.192:8000/play/a0h5/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina", AR EL TRECE
@@ -374,3 +346,13 @@ http://190.60.56.41:8000/play/a00e/index.m3u8
 http://190.60.56.41:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H HD
 http://181.189.241.114:5050/play/a0qe
+EXTINF:-1 group-title="Peliculas en Latino",PARAMOUNT
+http://181.78.109.48:8000/play/a063/index.m3u8
+EXTINF:-1 group-title="Peliculas en Latino",SyFy
+http://181.78.4.186:8000/play/a0e4/index.m3u8
+EXTINF:-1 group-title="Peliculas en Latino",Venus
+http://181.78.4.186:8000/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Ch
+http://190.109.4.34:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Deportes",NFL (English)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
