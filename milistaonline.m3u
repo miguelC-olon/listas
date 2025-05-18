@@ -346,11 +346,11 @@ http://190.60.56.41:8000/play/a00e/index.m3u8
 http://190.60.56.41:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Discovery H&H HD
 http://181.189.241.114:5050/play/a0qe
-EXTINF:-1 group-title="Peliculas en Latino",PARAMOUNT
+#EXTINF:-1 group-title="Peliculas en Latino",PARAMOUNT
 http://181.78.109.48:8000/play/a063/index.m3u8
-EXTINF:-1 group-title="Peliculas en Latino",SyFy
+#EXTINF:-1 group-title="Peliculas en Latino",SyFy
 http://181.78.4.186:8000/play/a0e4/index.m3u8
-EXTINF:-1 group-title="Peliculas en Latino",Venus
+#EXTINF:-1 group-title="Peliculas en Latino",Venus
 http://181.78.4.186:8000/play/a0f2/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Ch
 http://190.109.4.34:8000/play/a05i/index.m3u8
