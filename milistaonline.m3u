@@ -1,20 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="Peliculas en Latino",Wow TV LAT 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino", WOW 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
 #EXTINF:-1 group-title="Peliculas en Latino",Extrema TV 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino", Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Moda",FASHION TV
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-id="Fashion TV Midnight Secrets" tvg-logo="https://pictr.com/images/2024/01/04/EXDfiv.png" group-title="Moda" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",FASHION TV MIDNIGHT SECRETS
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes",ESPN 7
+#EXTINF:-1 group-title="Deportes",ESPN 7 Arg
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="Deportes", Fox Deportes Español
@@ -27,70 +22,36 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 group-title="Deportes", MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 group-title="Deportes", MX: FOX SPORTS ESPAÑOL
-http://45.68.35.218:4001/play/a021/index.m3u8
-#EXTINF:-1 group-title="Deportes",Claro Sport
-http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN VIVO ARG
-http://179.63.36.2:8000/play/a0o2/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2
 http://181.78.106.127:9000/play/ca034/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3
 http://181.78.106.127:9000/play/ca035/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN VIVO ARG
-http://167.250.180.251:4000/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD
 http://152.200.150.150:8000/play/a0jy/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD
 http://200.60.124.19:29000/play/a02e
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD bis
 http://181.189.241.114:5050/play/a032
-#EXTINF:-1 group-title="Deportes",ESPN 5
-http://181.78.74.69:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 7
-http://181.78.4.186:8000/play/a0fg/index.m3u8
-#EXTINF:-1 group-title="Mexico",Imagen TV
-http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Mexico",Canal 5 Cinco
 http://181.78.106.127:9000/play/ca012/index.m3u8
-#EXTINF:-1 group-title="Mexico",106 Multimedios
-http://181.78.105.146:2000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Mexico",Canal 7 Siete
-http://38.180.133.31:8000/play/a0ob/index.m3u8
 #EXTINF:-1 group-title="Mexico",111 ONCE
 http://181.78.106.127:9000/play/ca002/index.m3u8
-#EXTINF:-1 group-title="Deportes",336 Claro Sport Mx
-http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Deportes",338 ESPN 2 Arg
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Deportes",342 ESPN Arg
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Deportes",344 ESPN3
-http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Film & arts HD
 http://179.61.31.142:8000/play/a0el/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",386 Studio Universal
+#EXTINF:-1 group-title="Peliculas en Latino",Studio Universal
 http://179.61.31.142:8000/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="US movies", US: SKY CINEMA ACTION
-http://tvmate.icu:8080/live/7686199/9576982/35254.m3u8
 #EXTINF:-1 group-title="US movies", US: CTV SCI-FI
 http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
 #EXTINF:-1 group-title="Deportes", MX: AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 group-title="Canales Argentina",TELEFE 
-http://181.78.82.6:46090/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS HD
 http://181.78.82.6:46090/play/a024/index.m3u8
-#EXTINF:-1 group-title="Deportes",WIN SPORTS + HD
-http://181.78.4.186:8000/play/a0s4/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Studio Universal
-http://179.61.31.142:8000/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",UNIVERSAL TV HD
-http://181.78.4.186:8000/play/a0em/index.m3u8
+http://45.228.234.30:16000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",UNIVISION HD
-http://181.78.82.6:46090/play/a04x/index.m3u8
+http://45.228.234.30:16000/play/a037/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",WARNER TV HD
 http://181.78.82.6:46090/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",TNT HD
@@ -99,14 +60,8 @@ http://181.78.82.6:46090/play/a00u/index.m3u8
 http://200.115.96.66:4000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",TNT SERIES HD
 http://38.180.133.31:8000/play/a0qr/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",TNT SERIES HD
+#EXTINF:-1 group-title="Peliculas en Latino",TNT SERIES HD2
 http://179.61.31.142:8000/play/a0fh/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",A&E HD
-http://45.5.117.23:8000/play/a0n1/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",ADULT SWIM HD
-http://181.78.82.6:46090/play/a04e/index.m3u8
-#EXTINF:-1 group-title="Canales Argentina",AMERICA TV HD
-http://181.78.82.6:46090/play/a022/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",AXN HD
 http://179.61.31.142:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINE PREMIUM HD
@@ -118,15 +73,11 @@ http://181.78.82.6:46090/play/a052/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINECANAL HD
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINEMAX HD
-http://190.61.42.218:9000/play/a01q
+http://45.228.234.30:16000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",Atres Series
 http://179.61.31.142:8000/play/a0gs/index.m3u8
 #EXTINF:-1 group-title="Canales Argentina",CNN EN ESPAÑOL
 http://181.78.82.6:46090/play/a034/index.m3u8
-#EXTINF:-1 group-title="Canales Argentina",CNN International
-http://181.78.82.6:46090/play/a036/index.m3u8
-#EXTINF:-1 group-title="Canales Argentina",El Gourmet HD
-http://181.78.82.6:46090/play/a05o/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD
@@ -305,10 +256,10 @@ http://45.184.87.142:8000/play/a03a
 http://181.78.106.127:9000/play/ca082/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",CINEMAX
 http://181.78.106.127:9000/play/ca079/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",HBO Xtreme
-http://190.217.23.56:1010/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO
+http://45.228.234.30:16000/play/a008/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",HBO 2
-http://190.217.23.56:1010/play/a0dd/index.m3u8
+http://45.228.234.30:16000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Premium
 http://190.60.56.41:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",National Geographic
@@ -321,10 +272,6 @@ http://181.189.241.114:5050/play/a0qe
 http://181.78.109.48:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="Peliculas en Latino",SyFy
 http://181.78.4.186:8000/play/a0e4/index.m3u8
-#EXTINF:-1 group-title="Peliculas en Latino",Venus
-http://181.78.4.186:8000/play/a0f2/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Ch
-http://190.109.4.34:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="Deportes",NFL (English)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Peliculas en Latino",DHE
@@ -349,6 +296,8 @@ http://190.102.246.93:9005/play/a00x
 http://190.102.246.93:9005/play/a029
 #EXTINF:-1 group-title="Deportes",TUDN
 http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1 group-title="Deportes",TUDN Mx
+http://45.228.234.30:16000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="sky-sports-f1"  group-title="Deportes", Sky Sports F1 HD
 http://str6.oxtve.live:8080/EN_Sky_Sport_F1/mpegts
 #EXTINF:-1 tvg-id="tyc-sports-ar" group-title="Deportes", TyC Sports [AR]
@@ -369,5 +318,13 @@ http://181.188.216.5:18000/play/a0dn/index.m3u8
 http://181.188.216.5:18000/play/a0i6/index.m3u8
 #EXTINF:-1 tvg-id="mtv-live-us" group-title="Musica", MTV Live [US]
 http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png" group-title="Deportes", ESPN
+http://45.228.234.30:16000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/fox-sports1-ar.png" group-title="Deportes", Fox Sports
+http://45.228.234.30:16000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Peliculas en Latino",HBO + (Ven)
+http://186.167.114.171:7136/play/a0kg/index.m3u8
+#EXTINF:-1 tvg-id="sky-sports-f1"  group-title="Deportes", TNT Sports Premiun HD
+http://186.167.114.171:7136/play/a0sx/index.m3u8
 
 
